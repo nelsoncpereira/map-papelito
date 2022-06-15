@@ -1,0 +1,6978 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RO",
+        "CIDADE": "Porto Velho",
+        "NOME": "Roots Green tabacaria",
+        "INSTAGRAM": "rootsgreentabacaria",
+        "ENDEREÇO": "R. Osvaldo da Costa, 2710 - Juscelino Kubitschek",
+        "CEP": "76829-346"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.835371,
+          -8.770572
+        ],
+        "type": "Point"
+      },
+      "id": "003bf133a6c4cc2fc6d09747e870bd99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SC",
+        "CIDADE": "Criciúma",
+        "NOME": "Smoke store",
+        "INSTAGRAM": "smokestorebrazil",
+        "ENDEREÇO": "Rua anitta garibaldi - 368",
+        "CEP": "88801020"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.375461,
+          -28.676217
+        ],
+        "type": "Point"
+      },
+      "id": "007631308f6a12ae58c6e3b20c253a75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Recife",
+        "NOME": "Fiteiro do Russo",
+        "INSTAGRAM": "fiteirodorusso",
+        "ENDEREÇO": "Rua Bernardo Guimarães,  Box 3, Santo Amaro (Tabacaria Fiteiro do Russo na esquina da Afoso Pena com a Rua do Lazer)",
+        "CEP": "50050440"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.88701,
+          -8.054874
+        ],
+        "type": "Point"
+      },
+      "id": "0302e94e5dea1f7cae39cf96031c390c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Belo Jardim",
+        "NOME": "Tabacaria do Velho",
+        "INSTAGRAM": "tabacariadovelho",
+        "ENDEREÇO": "Cândido Mergulhão N18 Centro",
+        "CEP": "55150-290"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.422103,
+          -8.334614
+        ],
+        "type": "Point"
+      },
+      "id": "03e9805def39bc423de62c738426721f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Lagoa Santa",
+        "NOME": "Espaço Astros",
+        "INSTAGRAM": "espacoastros",
+        "ENDEREÇO": "Praça doutor lund 94 (sala 302)",
+        "CEP": "33230076"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.892226,
+          -19.628143
+        ],
+        "type": "Point"
+      },
+      "id": "0476459466d0274e92fb65176bb3990b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Porto Ferreira",
+        "NOME": "Hades Tabacaria Head Shop",
+        "INSTAGRAM": "tabacaria.hades",
+        "ENDEREÇO": "Rua Luiz Gama nr 915",
+        "CEP": "13660176"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.482271,
+          -21.858395
+        ],
+        "type": "Point"
+      },
+      "id": "05c170a0194ecfd74f752aa7a4e725cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Afogados da Ingazeira",
+        "NOME": "Tabacaria tabolado",
+        "INSTAGRAM": "tabacaria_tabolado",
+        "ENDEREÇO": "Rua Virgílio Amaral s/n",
+        "CEP": "56800000"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.637187,
+          -7.744839
+        ],
+        "type": "Point"
+      },
+      "id": "06185c983319e0b360b92c39faf85498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MA",
+        "CIDADE": "São Luís",
+        "NOME": "Tabacaria Jhow",
+        "INSTAGRAM": "tabacariajhow",
+        "ENDEREÇO": "Estr. da Vitória - Sacavém",
+        "CEP": "65043-205"
+      },
+      "geometry": {
+        "coordinates": [
+          -44.24146,
+          -2.570598
+        ],
+        "type": "Point"
+      },
+      "id": "06894005de86842f5f354249c583ba5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "AM",
+        "CIDADE": "Manaus ",
+        "NOME": "Tabacaria Manoa",
+        "INSTAGRAM": "tabacariamanoa",
+        "ENDEREÇO": "Av. Francisco Queiroz - Cidade Nova",
+        "CEP": "69074-020"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.00499,
+          -3.1405
+        ],
+        "type": "Point"
+      },
+      "id": "0701e20f68de43538503b7a24f9b3ec9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Olinda ",
+        "NOME": "A TOCA Tabacaria & Conveniência.",
+        "INSTAGRAM": "atocatabacaria",
+        "ENDEREÇO": "Av. Tiradentes, 15 A - Rio Doce",
+        "CEP": "53080-490"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.850623,
+          -7.961398
+        ],
+        "type": "Point"
+      },
+      "id": "0737270fa5a11fa7d17390734fae7dd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SE",
+        "CIDADE": "ARACAJU",
+        "NOME": "BOTE O SEU",
+        "INSTAGRAM": "boteoseu.tabacaria",
+        "ENDEREÇO": "RUA JOÃO CARVALHO DE ARAGÃO, 52 - atalaia",
+        "CEP": "49037620"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.05535,
+          -10.99022
+        ],
+        "type": "Point"
+      },
+      "id": "074bcdfd6cbfae862bdb40e7be224e4d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Raul Soares",
+        "NOME": "Amsterdam tabacaria",
+        "INSTAGRAM": "amsterdam_tabacaria033",
+        "ENDEREÇO": "Rua Ana Amélia, 43 , Vila esperança",
+        "CEP": "35350000"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.463848,
+          -20.113996
+        ],
+        "type": "Point"
+      },
+      "id": "08e1ac792cc5adf9d86a2bd958bc20be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "São João del Rei",
+        "NOME": "Be Happy Tabacaria SJDR",
+        "INSTAGRAM": "behappysjdr",
+        "ENDEREÇO": "Praça Severiano de Resende 110, Centro",
+        "CEP": "36300080"
+      },
+      "geometry": {
+        "coordinates": [
+          -44.253065,
+          -21.13154
+        ],
+        "type": "Point"
+      },
+      "id": "09d7eafb2ae94344e80245ef14759dad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Dirijo tabacaria",
+        "INSTAGRAM": "dirijo",
+        "ENDEREÇO": "Comércio Local Norte 110 BL C - Asa Norte",
+        "CEP": "70753-530"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.88798,
+          -15.758675
+        ],
+        "type": "Point"
+      },
+      "id": "0c4b9fc46c8f85cd59e4f924a0f30341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Santo andré",
+        "NOME": "Hemps Headshop",
+        "INSTAGRAM": "hempsheadshop",
+        "ENDEREÇO": "Rua Giovanni Battista Pirelli 155 Piso 1, loja 355 - Vila Homero Thon",
+        "CEP": "09111-340"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.499354,
+          -23.665113
+        ],
+        "type": "Point"
+      },
+      "id": "0d0fdd6ab177cf66f802e247fda01058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Time bomb",
+        "INSTAGRAM": "timebomb.br",
+        "ENDEREÇO": "Shopping Popular - Saa",
+        "CEP": "70297-400"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.916395,
+          -15.835655
+        ],
+        "type": "Point"
+      },
+      "id": "0dfac5d29c5fa78b4167ad11f447d6cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Aladdin tabacaria",
+        "INSTAGRAM": "aladdin.tabacaria",
+        "ENDEREÇO": "Cln 306 bloco E, loja 11 - asa norte",
+        "CEP": "70673-405"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.92902,
+          -15.800692
+        ],
+        "type": "Point"
+      },
+      "id": "0fda10ec1abcea83ad0e0e91683be2d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "Banca ilimitados tabacaria",
+        "INSTAGRAM": "ilimitadostabacaria",
+        "ENDEREÇO": "Rua Tonelero, 153 - Copacabana,",
+        "CEP": " 22030-001"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.18586,
+          -22.966713
+        ],
+        "type": "Point"
+      },
+      "id": "10772a1765e4d283a6e4e2d05ddb2c1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PR",
+        "CIDADE": "Curitiba",
+        "NOME": "Calle HeadShop",
+        "INSTAGRAM": "calle.headshop.041",
+        "ENDEREÇO": "Rua Benedito novo 25",
+        "CEP": "81270250"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.353356,
+          -25.456396
+        ],
+        "type": "Point"
+      },
+      "id": "117d4fbc34c54167709dd7a19728a106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "CE",
+        "CIDADE": "Pacatuba",
+        "NOME": "Bud 44 HeadShop",
+        "INSTAGRAM": "bud44headshop",
+        "ENDEREÇO": "Av. B, 400, casa 16",
+        "CEP": "61814-901"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.60851,
+          -3.896936
+        ],
+        "type": "Point"
+      },
+      "id": "121846c9f70b5fe3b61647922cd0d13b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "CE",
+        "CIDADE": "Fortaleza",
+        "NOME": "Maria Joana Shop",
+        "INSTAGRAM": "mariajoana.shop",
+        "ENDEREÇO": "Av. Treze de Maio, 369B - Fátima",
+        "CEP": "60040-531"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.522871,
+          -3.753891
+        ],
+        "type": "Point"
+      },
+      "id": "1224cafefb3ed19ac15f0f28bde5fffd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Santo André ",
+        "NOME": "Casa 93",
+        "INSTAGRAM": "casa93_",
+        "ENDEREÇO": "Rua Doutor Eduardo Monteiro, 158 - jardim bela vista",
+        "CEP": "09041-300"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.538099,
+          -23.663162
+        ],
+        "type": "Point"
+      },
+      "id": "131ed843eda4a7709823c693f5232415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Caetano do Sul ",
+        "NOME": "Las Condes Tabacaria, Presentes e Revistas",
+        "INSTAGRAM": "https://www.tabacarialascondes.com/inicio",
+        "ENDEREÇO": "Carrefour São Caetano, R. Aquidaban, 301 - loja 13 - Fundação",
+        "CEP": "09520-180"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.566624,
+          -23.608585
+        ],
+        "type": "Point"
+      },
+      "id": "150f8ce3ae34d2a0a6b0774a46fa9ea6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Espaço Quai D'orsay",
+        "INSTAGRAM": "espacoquaidorsay",
+        "ENDEREÇO": "R HADDOCK LOBO, 932 - CERQUEIRA CESAR",
+        "CEP": "01414-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.662404,
+          -23.558564
+        ],
+        "type": "Point"
+      },
+      "id": "154190d461275f7ca1f801a2cd5a2c2f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "D2 tabacaria",
+        "INSTAGRAM": "d2.tabacaria",
+        "ENDEREÇO": "SGAN 911 Módulo G; Bloco F Ap 212; Condomínio Edifício Garden Park; asa norte",
+        "CEP": "70790-902"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.898582,
+          -15.755692
+        ],
+        "type": "Point"
+      },
+      "id": "166e385d86e3879f347b269bb494ce9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vitória",
+        "NOME": "Espaço Thelema",
+        "INSTAGRAM": "thelemact",
+        "ENDEREÇO": "R. Graciano Neves, 90 - Centro",
+        "CEP": "29015-330"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.33669,
+          -20.31727
+        ],
+        "type": "Point"
+      },
+      "id": "167dcb17a7b77515910b62e5cdef27da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Monte claros",
+        "NOME": "Foccas Tabacaria e headshop",
+        "INSTAGRAM": "foccas_tabacaria",
+        "ENDEREÇO": "Rua clemente Martins 98 loja Bairro morrinhos",
+        "CEP": "39400-428"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.863441,
+          -16.730711
+        ],
+        "type": "Point"
+      },
+      "id": "16a57c8077e30f7ab6b23a6b851fe76b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Conceição do Coité",
+        "NOME": "Zonked smoke shop",
+        "INSTAGRAM": "zonkedsmokeshop",
+        "ENDEREÇO": "Rua David de Souza, n21, bairro da quadra",
+        "CEP": "48730000"
+      },
+      "geometry": {
+        "coordinates": [
+          -39.290388,
+          -11.566256
+        ],
+        "type": "Point"
+      },
+      "id": "17184428702cea44943f355f748f60b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "CE",
+        "CIDADE": "Fortaleza ",
+        "NOME": "Smoking Ca$h",
+        "INSTAGRAM": "smokingcashce",
+        "ENDEREÇO": "Rua Major Facundo - 680 Shopping Boulevard Mall, LOJA 20 - Centro",
+        "CEP": "60025-100"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.530238,
+          -3.734926
+        ],
+        "type": "Point"
+      },
+      "id": "1823eda1bc455ccc2b2e37c3cb63e4c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Salvador ",
+        "NOME": "La Perifa Tabacaria",
+        "INSTAGRAM": "salve.laperifa",
+        "ENDEREÇO": "R. Hélio Freire dos Prazeres, 2 - Cajazeiras",
+        "CEP": "41332-150"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.422554,
+          -12.887248
+        ],
+        "type": "Point"
+      },
+      "id": "184ee8d3cd66a1bdf802a860b634dd6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Santa Maria",
+        "NOME": "Pytá Tabacaria",
+        "INSTAGRAM": "pyta_tabacaria",
+        "ENDEREÇO": "Quadra 204 bloco 9 apto 401 total ville - Santa Maria",
+        "CEP": "72584600"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.882165,
+          -15.794228
+        ],
+        "type": "Point"
+      },
+      "id": "19280cc8a0db84ad8df14bf463348e86"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PA",
+        "CIDADE": "Belém",
+        "NOME": "Eleve tabacaria headshop",
+        "INSTAGRAM": "elevetabacaria",
+        "ENDEREÇO": "Conjunto benjamin sodré rua catinga numero 2A",
+        "CEP": "66635420"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.44694,
+          -1.359914
+        ],
+        "type": "Point"
+      },
+      "id": "19460c01f35e2614ca6bc922da3a4ab4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Três rios",
+        "NOME": "Manú-Tabacaria Artesanal",
+        "INSTAGRAM": "manu.tabaco",
+        "ENDEREÇO": "Rua Presidente Vargas, 637/704, Centro",
+        "CEP": "25802-200"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.205753,
+          -22.116522
+        ],
+        "type": "Point"
+      },
+      "id": "197663f889069ee801633d8742c0f910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Recife",
+        "NOME": "Tabacaria4i21",
+        "INSTAGRAM": "4i21h",
+        "ENDEREÇO": "Rua professor osias Ribeiro, 61 - apto 401",
+        "CEP": "51111100"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.889385,
+          -8.107897
+        ],
+        "type": "Point"
+      },
+      "id": "19815ff6494218bb2fa479cbf93e9b1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro",
+        "NOME": "Texas Tabacaria & Headshop",
+        "INSTAGRAM": "texas.tabacaria.headshop",
+        "ENDEREÇO": "Rua Dias da Cruz, 188, 135 - meier",
+        "CEP": "20720900"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.277842,
+          -22.902173
+        ],
+        "type": "Point"
+      },
+      "id": "1988bd8fbe706f1db69b454126f17476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Belo Jardim",
+        "NOME": "Tabacaria Moderna",
+        "INSTAGRAM": "tabacariamoderna",
+        "ENDEREÇO": "Rua Joaquim Cordeiro wanderlei, 200 - São Pedro",
+        "CEP": "55155-510"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.420871,
+          -8.332962
+        ],
+        "type": "Point"
+      },
+      "id": "19fc81910a6201a04f24ff6087862b35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "Jacaré Azul Headshop",
+        "INSTAGRAM": "jacare_azul",
+        "ENDEREÇO": " R. Barata Ribeiro, 752 - loja c - Copacabana",
+        "CEP": "22051-002"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.189559,
+          -22.97136
+        ],
+        "type": "Point"
+      },
+      "id": "1ad1bd696ca399143db3a831adf049bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Red Tabacaria e HeadShop",
+        "INSTAGRAM": "redtabacariaheadshop",
+        "ENDEREÇO": "Av. Dr. Jair de Andrade, 59 - Itapoã",
+        "CEP": "29101-701"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.289729,
+          -20.351385
+        ],
+        "type": "Point"
+      },
+      "id": "1b521a98ae6c6777dff37fd1a5468a7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Condis Tabacaria Paranoá",
+        "INSTAGRAM": "tabacaria.condis.paranoa",
+        "ENDEREÇO": "Praça Central - Paranoá",
+        "CEP": "71571-310"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.784953,
+          -15.645322
+        ],
+        "type": "Point"
+      },
+      "id": "1b605a8679240a892edae46a83b27207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Atibaia",
+        "NOME": "Lions reggae wear Atibaia",
+        "INSTAGRAM": "lionsreggaewearatibaia",
+        "ENDEREÇO": "Alameda professor Lucas Nogueira Garcez 3239",
+        "CEP": "12947000"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.554735,
+          -23.139504
+        ],
+        "type": "Point"
+      },
+      "id": "1c53fa043be6e35ccc16b3d306510517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PI",
+        "CIDADE": "Picos",
+        "NOME": "Chapeleiro Smoke Shop",
+        "INSTAGRAM": "chapeleirosmokeshop",
+        "ENDEREÇO": "Rua Antônia Viana, Bairro Passagem das Pedras, número 598",
+        "CEP": "64600406"
+      },
+      "geometry": {
+        "coordinates": [
+          -41.47273,
+          -7.093094
+        ],
+        "type": "Point"
+      },
+      "id": "1c781e0ce2185b8349b8e5afeb32d6d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Recife ",
+        "NOME": "Área 51 Headshop Tabacaria",
+        "INSTAGRAM": "area51_headshopbartabacaria",
+        "ENDEREÇO": "R. Gomes Taborda, 897 - Cordeiro",
+        "CEP": "50630-250"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.921495,
+          -8.056134
+        ],
+        "type": "Point"
+      },
+      "id": "1f12a8dbde9ca84203056b7335a9bcbb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PI",
+        "CIDADE": "Teresina ",
+        "NOME": "Diboa Tabacaria Shop",
+        "INSTAGRAM": "diboa_tabacaria_shop",
+        "ENDEREÇO": "Q, QD 35, Casa 11 - Parque Piaui",
+        "CEP": "64025-120"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.786595,
+          -5.145047
+        ],
+        "type": "Point"
+      },
+      "id": "1fa860401de021fbabad18b7a558e51d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Goiânia",
+        "NOME": "Cuba & Café Tabacaria - JD Goiás",
+        "INSTAGRAM": "cubaecafetabacaria",
+        "ENDEREÇO": "R. 72, 950-1042 - Jardim Goiás",
+        "CEP": "74805-480"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.235392,
+          -16.702638
+        ],
+        "type": "Point"
+      },
+      "id": "205758c08dd359137a34dc82b852348a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Salvador ",
+        "NOME": "Isso é um Cachimbo?",
+        "INSTAGRAM": "issoeumcachimbo",
+        "ENDEREÇO": "R. da Fonte do Boi, 176 - loja 2 - Rio Vermelho",
+        "CEP": "41940-440"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.48595,
+          -13.012921
+        ],
+        "type": "Point"
+      },
+      "id": "2057d0450726697aec14e7daeda56ab0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "Rida & Co Tabacaria",
+        "INSTAGRAM": "ridaeco.tabacaria",
+        "ENDEREÇO": "R. Prof. Castilho, 431 - Loja C - Campo Grande",
+        "CEP": "23045-060"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.564661,
+          -22.910098
+        ],
+        "type": "Point"
+      },
+      "id": "20c64011290af8b8fe86a6483b39f220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Tabacaria Cristal",
+        "INSTAGRAM": "tbcrcristal",
+        "ENDEREÇO": "QI 23, loja 40B -  Guará II",
+        "CEP": "71060-641"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.84732,
+          -15.851121
+        ],
+        "type": "Point"
+      },
+      "id": "226712ba26dbbe30eddf9a3eb2aa2ac3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Feira de Santana",
+        "NOME": "Tabacaria Duende Verde",
+        "INSTAGRAM": "tabacariadv",
+        "ENDEREÇO": "Av. Getúlio Vargas, 1259 - Ponto Central",
+        "CEP": "44075-432"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.933212,
+          -12.256164
+        ],
+        "type": "Point"
+      },
+      "id": "26b57877b71e53a27d1c613dcfa33b80"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Cariacica",
+        "NOME": "Tabacaria Leandro",
+        "INSTAGRAM": "tabacarialeandro",
+        "ENDEREÇO": "R. Quinze de Novembro, 11 - Campo Grande",
+        "CEP": "29146-270"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.426815,
+          -20.260727
+        ],
+        "type": "Point"
+      },
+      "id": "2767ffdf286b5d2297f19a62d8030d2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MT",
+        "CIDADE": "Cuiabá",
+        "NOME": "Lancaster smokeshop",
+        "INSTAGRAM": "lancastercuiaba",
+        "ENDEREÇO": "Av. Isaac Póvoas, 1560 - Centro Norte",
+        "CEP": "78005-340"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.102942,
+          -1.559423
+        ],
+        "type": "Point"
+      },
+      "id": "285ef05f8d4628ee6ee958700f0200a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MA",
+        "CIDADE": "Caxias",
+        "NOME": "Pitstop Headshop",
+        "INSTAGRAM": "",
+        "ENDEREÇO": "Rua sesoste Pereira 2239 seriema",
+        "CEP": "65602350"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.362134,
+          -4.865438
+        ],
+        "type": "Point"
+      },
+      "id": "288d3aabf43abccbc88ed633f33a4a4b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "TABACARIA CENTRAL LTDA",
+        "INSTAGRAM": "",
+        "ENDEREÇO": "Rua Tabatinguera, 229",
+        "CEP": "01020-001"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.629412,
+          -23.55247
+        ],
+        "type": "Point"
+      },
+      "id": "2bba6e459b7a5c5ea973c37ae2cd51f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PI",
+        "CIDADE": "Parnaíba",
+        "NOME": "Mama África headshop",
+        "INSTAGRAM": "mamaafricaheadshop",
+        "ENDEREÇO": "Rua José Cavalcante dias nº 990 bairro Dirceu Arcoverde",
+        "CEP": "64210060"
+      },
+      "geometry": {
+        "coordinates": [
+          -41.751621,
+          -2.94004
+        ],
+        "type": "Point"
+      },
+      "id": "2c1fadd08e1132130f5b16b5b6fb8032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Candeias ",
+        "NOME": "Loja Fluxus Tabacaria",
+        "INSTAGRAM": "fluxustabacaria",
+        "ENDEREÇO": "Tv. Treze de Maio - Centro",
+        "CEP": "43805-210"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.542157,
+          -12.671848
+        ],
+        "type": "Point"
+      },
+      "id": "2c8f68cd82f1429683dc7719b88da756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vitória",
+        "NOME": "Tabacaria Amsterdam ",
+        "INSTAGRAM": "amsterdamtabacaria027",
+        "ENDEREÇO": "Rua João de Oliveira soares ",
+        "CEP": "29090390"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.265444,
+          -20.261731
+        ],
+        "type": "Point"
+      },
+      "id": "2cd14f3b6087369209e7ea1f43890885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Niterói",
+        "NOME": "De Boa tabacaria",
+        "INSTAGRAM": "ta.deboa",
+        "ENDEREÇO": "Rua leite ribeiro - 107 - bloco 1, apto. 302 - fonseca",
+        "CEP": "24120210"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.09401,
+          -22.884407
+        ],
+        "type": "Point"
+      },
+      "id": "3163df907a200f7b197742c1e48b7b69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Tabacaria Amerê 2",
+        "INSTAGRAM": "tabacariaamere",
+        "ENDEREÇO": "St avenida araucárias lotes 4530, 9 - aguas claras",
+        "CEP": "71936250"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.028829,
+          -15.841596
+        ],
+        "type": "Point"
+      },
+      "id": "31ed1f1bd550abc78b26923a38f9c009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "Df",
+        "CIDADE": "Brasilia",
+        "NOME": "Ovelha verde tabacaria",
+        "INSTAGRAM": "ovelhaverdetabacaria",
+        "ENDEREÇO": "Sia trecho 07, feira dos importados conjunto c 155, 100 - Guará",
+        "CEP": "71208900"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.947874,
+          -15.791281
+        ],
+        "type": "Point"
+      },
+      "id": "324f025be7fcbda69a8194618e05357a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "TO",
+        "CIDADE": "Palmas",
+        "NOME": "Golden Shop Tabacaria, Head shop, tereré e presentes",
+        "INSTAGRAM": "goldenshop.63",
+        "ENDEREÇO": "Av. Tocantins rua t 16 Qd. 33 lote 7 Sala 2 - Taquaralto",
+        "CEP": "77064-043"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.289259,
+          -10.322251
+        ],
+        "type": "Point"
+      },
+      "id": "3278021e5fff8f946282ae8224e12d7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Rio de Contas",
+        "NOME": "Green queen tabacaria ",
+        "INSTAGRAM": "queen_tabacaria",
+        "ENDEREÇO": "Rua poço das andorinhas 190 - sossego",
+        "CEP": "46170-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -41.813682,
+          -13.588248
+        ],
+        "type": "Point"
+      },
+      "id": "32ad91025d4c88e44bb92ef46759f00a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Jaboatão dos Guararapes",
+        "NOME": "Etiopia smoke shop",
+        "INSTAGRAM": "Etiopia smoke shop",
+        "ENDEREÇO": "Segunda rua do colégio, n72 - Prazeres",
+        "CEP": "54330-213"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.999072,
+          -8.069587
+        ],
+        "type": "Point"
+      },
+      "id": "332c9b3ad29b1028ddef8f0b81cdddf8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Catalão",
+        "NOME": "Ice-o-lator Headshop e Tabacaria",
+        "INSTAGRAM": "iceolatorheadshop",
+        "ENDEREÇO": "Rua 17, 17 - setor universitario",
+        "CEP": "75706190"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.926463,
+          -18.157603
+        ],
+        "type": "Point"
+      },
+      "id": "334631ed2c595029fba972204661b22f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "Jacaré Azul centro",
+        "INSTAGRAM": "jacare_azul",
+        "ENDEREÇO": "Av. Mem de Sá, 127 - Loja H - Centro",
+        "CEP": "20230-150"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.185175,
+          -22.912454
+        ],
+        "type": "Point"
+      },
+      "id": "3437b02bcfa238f972629f8b888ac0b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Serra",
+        "NOME": "Tabacaria Vila Tabaco",
+        "INSTAGRAM": "vila_tabaco",
+        "ENDEREÇO": "Av. August Saint Hilaire, 07 - Manguinhos",
+        "CEP": "29173-040"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.307789,
+          -20.121522
+        ],
+        "type": "Point"
+      },
+      "id": "36b55c0c2966783e8c3d479f201b04b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Niterói",
+        "NOME": "Raiz cultivo indoor Niteroi ",
+        "INSTAGRAM": "raizcultivoindoor",
+        "ENDEREÇO": "Praça Leoni Ramos, Cantareira Niteroi, 33 - são domingos",
+        "CEP": "24210205"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.13037,
+          -22.899865
+        ],
+        "type": "Point"
+      },
+      "id": "37c672533aed83942cc7743106cd7ca8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PA",
+        "CIDADE": "Ananindeua ",
+        "NOME": "High Smoke House - Tabacaria",
+        "INSTAGRAM": "highsmokehouse",
+        "ENDEREÇO": "Alameda Pres. Geisel, 8 - Cidade Nova",
+        "CEP": "67133-425"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.41163,
+          -1.360497
+        ],
+        "type": "Point"
+      },
+      "id": "37ecf9d53b136faa3fe7b2c9b6d69782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Cultura Verde",
+        "INSTAGRAM": "culturaverdeshop",
+        "ENDEREÇO": "SDS Ed. Eldorado loja 615 - Conic Brasília",
+        "CEP": "70.392-901"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.885041,
+          -15.79599
+        ],
+        "type": "Point"
+      },
+      "id": "39098ef018bce815ee653b8e5a565450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "Tabacaria King Smoke",
+        "INSTAGRAM": "tabacariaking_smoke",
+        "ENDEREÇO": "Rua Uruguaiana - Quadra C - Box 75/76 - Mercado Popular da Uruguaiana",
+        "CEP": "20050-090"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.179509,
+          -22.904927
+        ],
+        "type": "Point"
+      },
+      "id": "39a6d18ce9ad946e48caaa5133eafd73"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Recife ",
+        "NOME": "Tabacaria Chinaipe",
+        "INSTAGRAM": "tabacariachinaipe",
+        "ENDEREÇO": "Av. Dantas Barreto, 876 - São José",
+        "CEP": "50020-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.880613,
+          -8.068026
+        ],
+        "type": "Point"
+      },
+      "id": "39d7e240a7cdf5d510387cf38e58f598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PA",
+        "CIDADE": "Belém ",
+        "NOME": "Carioca Headshop",
+        "INSTAGRAM": "cariocaheadshop",
+        "ENDEREÇO": "Av. do contorno n 25- val de cans( ao lado da pizzaria) - praça do marex",
+        "CEP": "66110-046"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.47529,
+          -1.399299
+        ],
+        "type": "Point"
+      },
+      "id": "3b0a508723d81327717d538e16d78894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RN",
+        "CIDADE": "Mossoró ",
+        "NOME": "Sra Cigarra",
+        "INSTAGRAM": "sracigarra",
+        "ENDEREÇO": "Av. Rio Branco, 2151 - Alto da Conceição",
+        "CEP": "59600-400"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.346295,
+          -5.161125
+        ],
+        "type": "Point"
+      },
+      "id": "3b9d45e043fba5868ef35712b3177198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Goiânia",
+        "NOME": "Tô Doidao Smoking Shop",
+        "INSTAGRAM": "todoidaosmokingshop",
+        "ENDEREÇO": "Rua Cassimiro de Abreu QD. 03 LT.08 N933, Pq. Anhanguera",
+        "CEP": "74.335-040"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.299769,
+          -16.721716
+        ],
+        "type": "Point"
+      },
+      "id": "3c0803412c8f0bdd4087feb1b559c723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Recife",
+        "NOME": "Carranca Smokeshop",
+        "INSTAGRAM": "carrancape",
+        "ENDEREÇO": "RUA SÃO MATEUS, 1160, BL M APT 104",
+        "CEP": "50680-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.935684,
+          -8.037784
+        ],
+        "type": "Point"
+      },
+      "id": "3d9256464f97e3a4c4669c58893d81a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Juiz de fora",
+        "NOME": "Fifth Street Smoke Company",
+        "INSTAGRAM": "fifthstreet",
+        "ENDEREÇO": "R. Américo Lôbo, 978 - Manoel Honório",
+        "CEP": "36045-050"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.349997,
+          -21.741547
+        ],
+        "type": "Point"
+      },
+      "id": "3da9ee2111a4d7b8ffc4cf0ef32b3a9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Cachoeiro de Itapemirim",
+        "NOME": "Tio chá tabacaria",
+        "INSTAGRAM": "Tiochatabacaria",
+        "ENDEREÇO": "Av carly levi ramos n186  bairro novo parque",
+        "CEP": "29309-100"
+      },
+      "geometry": {
+        "coordinates": [
+          -41.11734,
+          -20.838776
+        ],
+        "type": "Point"
+      },
+      "id": "3eb851b71b4fee85e7d2c69fdaddd531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Avaré",
+        "NOME": "Dazzarabia narguile",
+        "INSTAGRAM": "dazzarabia_narguiles",
+        "ENDEREÇO": "Minas gerais n 464 - centro",
+        "CEP": "18700-100"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.927574,
+          -23.101472
+        ],
+        "type": "Point"
+      },
+      "id": "4131f614442c17cf0092a01404c1c0a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Poços de Caldas",
+        "NOME": "Tabacolândia Ltda",
+        "INSTAGRAM": "tabacolandia",
+        "ENDEREÇO": "Rua Santa Catarina Loja 16 Mercado Municipal",
+        "CEP": "37701015"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.564043,
+          -21.789224
+        ],
+        "type": "Point"
+      },
+      "id": "4137f102a246ddcb03914d31d167273d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Serra",
+        "NOME": "Tabacaria Trabalhe seu Cérebro",
+        "INSTAGRAM": "trabalheseucerebro",
+        "ENDEREÇO": "Av. Alpheu Ribeiro, 20 - Carapina Grande",
+        "CEP": "29160-065"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.307789,
+          -20.121522
+        ],
+        "type": "Point"
+      },
+      "id": "4190e38f65589135ea002e79bd34fb90"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "LIMEIRA",
+        "NOME": " 019 Tabacaria",
+        "INSTAGRAM": "tabacaria019",
+        "ENDEREÇO": "RUA DEPUTADO OCTAVIO LOPES - CENTRO, 216",
+        "CEP": "13.480-020"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.404542,
+          -22.565621
+        ],
+        "type": "Point"
+      },
+      "id": "420dccf8ca4d2f603237999d5b41d8a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PB",
+        "CIDADE": "João Pessoa",
+        "NOME": "Mad Monkey Headshop e Tabacaria",
+        "INSTAGRAM": "madmonkeyheadshop",
+        "ENDEREÇO": " R. Adão Viana da Rosa, 192 - Aeroclube",
+        "CEP": "58036-873"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.845347,
+          -7.094223
+        ],
+        "type": "Point"
+      },
+      "id": "42c7be6b5e6b6a02d02ac9805c5d9a62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "CE",
+        "CIDADE": "Fortaleza ",
+        "NOME": "Mr. Tabaco",
+        "INSTAGRAM": "https://www.tabacariamrtabaco.com.br/diversos",
+        "ENDEREÇO": "Av. Júlio Abreu, 160 - loja 14 - Meireles - Edifício Hot Center",
+        "CEP": "60160-240"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.486813,
+          -3.735888
+        ],
+        "type": "Point"
+      },
+      "id": "4492be948f8ab9fd74074acba70c3fd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Tabacaria Amerê",
+        "INSTAGRAM": "tabacariaamere",
+        "ENDEREÇO": "Ql 11  deck Brasil, 21- lago sul",
+        "CEP": "71625640"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.973341,
+          -16.049934
+        ],
+        "type": "Point"
+      },
+      "id": "44ccd299b3bd1dfe6b132c1644b5d5d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RR",
+        "CIDADE": "Boa Vista",
+        "NOME": "Beverage Festival",
+        "INSTAGRAM": "beverage_festival",
+        "ENDEREÇO": "Av. Cap. Júlio Bezerra, 573 - Centro",
+        "CEP": "69301-410"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.67082,
+          -2.828594
+        ],
+        "type": "Point"
+      },
+      "id": "4566d38cc3f37669b51420752e1fc6f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Sorocaba",
+        "NOME": "ChapôB Smoking Shop",
+        "INSTAGRAM": "chapobstore",
+        "ENDEREÇO": "Rua José Del Ben,232 ",
+        "CEP": "18090-020"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.450581,
+          -23.487864
+        ],
+        "type": "Point"
+      },
+      "id": "45ffeac8c883518afb0e9cca4dd2fdc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Lorena",
+        "NOME": "Smoke Cave",
+        "INSTAGRAM": "smokecaveshop",
+        "ENDEREÇO": "Rua Otavio Candido Ribeiro 112",
+        "CEP": "12610-275"
+      },
+      "geometry": {
+        "coordinates": [
+          -45.131668,
+          -22.753768
+        ],
+        "type": "Point"
+      },
+      "id": "491642e6baa415314754004834f01e5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Ibiúna",
+        "NOME": "Rollingreen headshop",
+        "INSTAGRAM": "Roliingreenheadshop",
+        "ENDEREÇO": "Rua Fortunato antonio de camargo, 245",
+        "CEP": "18150000"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.215091,
+          -23.658295
+        ],
+        "type": "Point"
+      },
+      "id": "4975b12be25c174c1bf4fe40a122c265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SC",
+        "CIDADE": "Jaraguá do Sul",
+        "NOME": "Rataria Headshop",
+        "INSTAGRAM": "ratariahs",
+        "ENDEREÇO": "R. Vista Alegre, 61 - Amizade",
+        "CEP": "89255-580"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.066771,
+          -26.495114
+        ],
+        "type": "Point"
+      },
+      "id": "49be1a56e476f4fdb9dbfe266a8067f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Paulista",
+        "NOME": "Tabacaria Head Shop Flor de Maracujah",
+        "INSTAGRAM": "florde_maracujah",
+        "ENDEREÇO": "Rua Barras, 17 -casa 9",
+        "CEP": "53431-450"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.842776,
+          -7.896254
+        ],
+        "type": "Point"
+      },
+      "id": "4a116b151a1c7770817a5a43c81072fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SC",
+        "CIDADE": "Florianópolis",
+        "NOME": "Golden Headshop",
+        "INSTAGRAM": "golden_headshop",
+        "ENDEREÇO": "R. do Gramal, 113 - Campeche",
+        "CEP": "88063-080"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.497294,
+          -27.687862
+        ],
+        "type": "Point"
+      },
+      "id": "4ad46526c99ed979a9cde32c4414f0d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Caruaru",
+        "NOME": "Acapulco Gold Tabacaria",
+        "INSTAGRAM": "acapulcogoldtabacaria",
+        "ENDEREÇO": "Rua Sirinhaém, Número 106, Bairro Boa vista ",
+        "CEP": "55038015"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.985663,
+          -8.271661
+        ],
+        "type": "Point"
+      },
+      "id": "4ae1ae4108283a3661185f55d5e28adf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PA",
+        "CIDADE": "Castanhal",
+        "NOME": "Xamã tabacaria",
+        "INSTAGRAM": "Xamatabacaria",
+        "ENDEREÇO": "Avenida Duque de caxias, n°2053, Nova Olinda.",
+        "CEP": "68741360"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.938439,
+          -1.298018
+        ],
+        "type": "Point"
+      },
+      "id": "4cca7e1f1ffcfff9c0d4f6ea7412e1c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Belo Jardim",
+        "NOME": "Galeria Do Mago",
+        "INSTAGRAM": "galeriadomago",
+        "ENDEREÇO": "Rua Pedro Bezerra da Silva, 90 A",
+        "CEP": "55153220"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.954107,
+          -8.813717
+        ],
+        "type": "Point"
+      },
+      "id": "4d12f3ea9c11bb8408e896c92773b5f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SE",
+        "CIDADE": "Aracaju",
+        "NOME": "Bob box tabacaria",
+        "INSTAGRAM": "_bobboxtabacaria",
+        "ENDEREÇO": "Av Antônio Fagundes de Santana 320 edf Itália AP 1202 - 13 de julho",
+        "CEP": "49020070"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.050853,
+          -10.932287
+        ],
+        "type": "Point"
+      },
+      "id": "4e6ce3b7b40ffb80b64a4514a64dec62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Damata café",
+        "INSTAGRAM": "damatacafe",
+        "ENDEREÇO": "Alameda dos arapanés, 1015, moema",
+        "CEP": "04524-001"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.663151,
+          -23.602551
+        ],
+        "type": "Point"
+      },
+      "id": "4f711f53936a080a301362412c3d6d2d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Tabacaria Amerê 3",
+        "INSTAGRAM": "tabacariaamere",
+        "ENDEREÇO": "Quadra 14 AE 3/4 sobradinho shopping - sobradinho 1",
+        "CEP": "73050146"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.954856,
+          -15.856409
+        ],
+        "type": "Point"
+      },
+      "id": "512279e558b45baa9f3604f1fbd0da29"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PR",
+        "CIDADE": "Maringá",
+        "NOME": "Brisce headshop",
+        "INSTAGRAM": "brisceheadshop",
+        "ENDEREÇO": "R. Catulo Cearense, 717 - Zona 05",
+        "CEP": "87015260"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.968671,
+          -23.429325
+        ],
+        "type": "Point"
+      },
+      "id": "52ddfa728610e21af13008b38f81dc43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São bernardo do campo",
+        "NOME": "Matrix headshop",
+        "INSTAGRAM": "matrixheadshop",
+        "ENDEREÇO": "R. Padre Lustosa, 128 - Centro",
+        "CEP": "09810-120"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.564557,
+          -23.71907
+        ],
+        "type": "Point"
+      },
+      "id": "53a89a36e1fe0a6d7e777bab9b3aaf7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Jau",
+        "NOME": "Vinyl Tabacaria e Headshop",
+        "INSTAGRAM": "vinyl_tabacaria",
+        "ENDEREÇO": "Rua Abolição 241-A / Rua 7 de Setembro, 517",
+        "CEP": " 17201-480"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.562555,
+          -22.295708
+        ],
+        "type": "Point"
+      },
+      "id": "55249835880b590900d78799a7d26acc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Suzano",
+        "NOME": "Gato preto tabacaria",
+        "INSTAGRAM": "gatopreto_tabacaria",
+        "ENDEREÇO": "Amélia Guerra 103",
+        "CEP": "08615-090"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.311625,
+          -23.54532
+        ],
+        "type": "Point"
+      },
+      "id": "5548fa0efb86c12b974f84198e981904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Lauro de Freitas",
+        "NOME": "Oxe, só bote",
+        "INSTAGRAM": "oxesobotetab",
+        "ENDEREÇO": "Rua Vereador Jone Kiss 58",
+        "CEP": "42739160"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.33997,
+          -12.897307
+        ],
+        "type": "Point"
+      },
+      "id": "5691329dcf6a47e8718e3dbe981f57e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Salvador ",
+        "NOME": "Sr. Haxi",
+        "INSTAGRAM": "srhaxibrasil",
+        "ENDEREÇO": "R. Alexandre Herculano, 54 - Pituba",
+        "CEP": "41810-395"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.460161,
+          -12.999195
+        ],
+        "type": "Point"
+      },
+      "id": "56fab5d3fe50411774351e7f2c551519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de janeiro",
+        "NOME": "De Boa tabacaria",
+        "INSTAGRAM": "ta.deboa",
+        "ENDEREÇO": "Av. Maracanã 894, apto 101 - Tijuca",
+        "CEP": "20540-103"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.230155,
+          -22.912108
+        ],
+        "type": "Point"
+      },
+      "id": "57a389eb25b5146addd3da129c12f48b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Timóteo",
+        "NOME": "Smoke Break Tabacaria",
+        "INSTAGRAM": "smokebreaktabacaria",
+        "ENDEREÇO": "Av Senador Milton campos, 94 lj 03",
+        "CEP": "35180073"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.637561,
+          -19.535594
+        ],
+        "type": "Point"
+      },
+      "id": "57ab21bee972767ee9018f65d4a186e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "4evinte tabacaria contemporânea ",
+        "INSTAGRAM": "4evinte_tabacaria",
+        "ENDEREÇO": "shcs eq 102/103 bloco a loja 32 asa sul",
+        "CEP": "70330400"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.890187,
+          -15.80498
+        ],
+        "type": "Point"
+      },
+      "id": "57cd37fbb47e05475247b5bfcca6a410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Goiânia",
+        "NOME": "Tabacaria Pamonha Doce Headshop",
+        "INSTAGRAM": "pamonhadocehs",
+        "ENDEREÇO": "R. 134 - St. Marista",
+        "CEP": "74080-015"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.332446,
+          -16.620283
+        ],
+        "type": "Point"
+      },
+      "id": "587acd9be6a0545097676a682124ec59"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Araraquara",
+        "NOME": "Tabacaria do Mané",
+        "INSTAGRAM": "tabacariadomane",
+        "ENDEREÇO": "Avenida sete de setembro, 1173 - Centro",
+        "CEP": "14800390"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.180446,
+          -21.799194
+        ],
+        "type": "Point"
+      },
+      "id": "588a8e0beb22c62e6e0c6e35c33f587d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "JR Tabacaria",
+        "INSTAGRAM": "jrtabacaria",
+        "ENDEREÇO": "Barra shopping: Av. das Américas, 4666 - Loja 243i - Barra da Tijuca",
+        "CEP": "22640-102"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.519099,
+          -23.009604
+        ],
+        "type": "Point"
+      },
+      "id": "5a2605c1f6b24603ad83f1b7664d931b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Sorocaba",
+        "NOME": "Jerere smoking shop",
+        "INSTAGRAM": "jerere.smk",
+        "ENDEREÇO": "Rua Azevedo Figueiredo 138",
+        "CEP": "18108020"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.360905,
+          -23.509908
+        ],
+        "type": "Point"
+      },
+      "id": "5a40edd0b853416aacd668c3b6de6be3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Ilhabela",
+        "NOME": "Tabacaria da Ilha",
+        "INSTAGRAM": "tabacaria.ilhabela",
+        "ENDEREÇO": "Av Princesa Isabel, 1478 ",
+        "CEP": "11630-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -45.36648,
+          -23.815839
+        ],
+        "type": "Point"
+      },
+      "id": "5a910573b999845be1f4363ec3d913bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Cariacica",
+        "NOME": "Espaço Fogo Na Bomba",
+        "INSTAGRAM": "espacofogonabomba",
+        "ENDEREÇO": "Av. Campo Grande, 47 - Campo Grande",
+        "CEP": "29146-300"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.392499,
+          -20.339626
+        ],
+        "type": "Point"
+      },
+      "id": "5c1564be4ea7358e911a933157472d7d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Recife ",
+        "NOME": "EfiUm HeadShop",
+        "INSTAGRAM": "efiumheadshop",
+        "ENDEREÇO": "R. Santo Anastácio, 72 - Casa Amarela",
+        "CEP": "52070-710"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.92475,
+          -8.025289
+        ],
+        "type": "Point"
+      },
+      "id": "5daff3efea23310e5fffa03f98984bc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PR",
+        "CIDADE": "Londrina",
+        "NOME": "Gringo Shop bebidas e tabacaria",
+        "INSTAGRAM": "gringoshop.londrina",
+        "ENDEREÇO": "R. Benjamin Constant, 1053 - loja 168/169 - Centro",
+        "CEP": "86010-350"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.162128,
+          -23.308743
+        ],
+        "type": "Point"
+      },
+      "id": "5f78771f19ac4e96dbfb4a87ba0b7ffa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Diboa Tabacaria",
+        "INSTAGRAM": "diboa.tabacaria",
+        "ENDEREÇO": "Rua Fradique Coutinho - pinheiros",
+        "CEP": "05416-010"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.689978,
+          -23.558174
+        ],
+        "type": "Point"
+      },
+      "id": "61dfc8b1d4765ad0b5335a4e240906c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Shakur pub",
+        "INSTAGRAM": "shakurpub",
+        "ENDEREÇO": "Rua Nazaré machado 55 -",
+        "CEP": "2925150"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.699909,
+          -23.502574
+        ],
+        "type": "Point"
+      },
+      "id": "61e982daec01883f1dea8242bcb2860b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PB",
+        "CIDADE": "João Pessoa",
+        "NOME": "Marola tabacaria e headshop",
+        "INSTAGRAM": "sigamarola",
+        "ENDEREÇO": "Av Sergipe 444, apto 102. Bairro dos estados",
+        "CEP": "58030190"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.855291,
+          -7.111891
+        ],
+        "type": "Point"
+      },
+      "id": "633ccd5af8dfd514f647f1e28fbaab10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Cabo de Santo Agostinho",
+        "NOME": "De Borest Tabacaria & Acessórios",
+        "INSTAGRAM": "tabacaria_de_borest",
+        "ENDEREÇO": "Avenida. Historiador Pereira da Costa n°151 sala 101, 1 andar - Centro",
+        "CEP": "54510-360"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.034573,
+          -8.284325
+        ],
+        "type": "Point"
+      },
+      "id": "63d2fc2128b20a16cfb566e862ee68ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Belo horizonte",
+        "NOME": "Chaos Headshop",
+        "INSTAGRAM": "chaos_headshop",
+        "ENDEREÇO": "Rua jacui 312 (casa) bairro floresta",
+        "CEP": "31110050"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.932732,
+          -19.91312
+        ],
+        "type": "Point"
+      },
+      "id": "648c37fbf9ce80378269b277bdbe2d6d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Uberlandia ",
+        "NOME": "Freedom Head Shop",
+        "INSTAGRAM": "freedom.headshop",
+        "ENDEREÇO": "Rua professor pedro bernardo, 77 - osvaldo rezende",
+        "CEP": "38400378"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.288902,
+          -18.912781
+        ],
+        "type": "Point"
+      },
+      "id": "64ab81b944107da38217f88fd82e8a58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Campinas",
+        "NOME": "NostroFumo",
+        "INSTAGRAM": "nostrofumosantos",
+        "ENDEREÇO": "Av. Francisco José de Camargo Andrade, 381 - Jardim Chapadão",
+        "CEP": "13070-055"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.076898,
+          -22.889635
+        ],
+        "type": "Point"
+      },
+      "id": "652841350a4a86254089a94cf071a645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Jundiaí",
+        "NOME": "Smoke Stuff",
+        "INSTAGRAM": "smokestuffoficial",
+        "ENDEREÇO": "Avenida professora Maria do Carmo Guimarães Pelegrini s/n",
+        "CEP": "13209-500"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.897805,
+          -23.185707
+        ],
+        "type": "Point"
+      },
+      "id": "65fa13e99b677d78361f196215804d78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "Giba tabacaria",
+        "INSTAGRAM": "gibatabacaria",
+        "ENDEREÇO": "Rua Siqueira Campos, 143, loja 104, Pavimento 1 - Copacabana",
+        "CEP": "22031-900"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.188063,
+          -22.96687
+        ],
+        "type": "Point"
+      },
+      "id": "667806628d21de97eb1f9efcb301cc43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Recife",
+        "NOME": "Tabacaria 21 de abril",
+        "INSTAGRAM": "tabacaria21deabril",
+        "ENDEREÇO": "Rua José Miranda N 2 D",
+        "CEP": "50820600"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.910336,
+          -8.075658
+        ],
+        "type": "Point"
+      },
+      "id": "667bf457da114eceae1c9d6b5f6294bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Tramandaí",
+        "NOME": "Ganja Tabacaria e headshop",
+        "INSTAGRAM": "ganjatabacariaeheadshop",
+        "ENDEREÇO": "Av. da Igreja, 140 - Loja 4 - Centro",
+        "CEP": "95590-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -50.132684,
+          -29.984664
+        ],
+        "type": "Point"
+      },
+      "id": "6684c07ffb24971b3d09158a9a1d998e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PB",
+        "CIDADE": "João Pessoa",
+        "NOME": "Big green tabacaria",
+        "INSTAGRAM": "biggreentabacaria",
+        "ENDEREÇO": "R. Pref. Luís Alberto Moreira Coutinho, 213 - Mangabeira",
+        "CEP": "58058-800"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.834267,
+          -7.166864
+        ],
+        "type": "Point"
+      },
+      "id": "66e93a464d6170e32e191285a41adfc8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "ZN Shop - Graffiti | Tabacaria | Vestuário",
+        "INSTAGRAM": "znshoprj",
+        "ENDEREÇO": "Av. Monsenhor Félix, 401 - Irajá",
+        "CEP": "21361-131"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.324051,
+          -22.845559
+        ],
+        "type": "Point"
+      },
+      "id": "66eb7d299b64e661ef751f8d3fb5669c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Belo Horizonte",
+        "NOME": "Planeta Green",
+        "INSTAGRAM": "planetagreenbh",
+        "ENDEREÇO": "Rua Armando Ziller, 45",
+        "CEP": "31720225"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.983473,
+          -19.785413
+        ],
+        "type": "Point"
+      },
+      "id": "672fe1e613240d0554046d0b6ebcb84e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Grow part headshop",
+        "INSTAGRAM": "growpartheadshop",
+        "ENDEREÇO": "Rua Ipeca Guaçu, 310 Parque Santa Madalena ",
+        "CEP": "3981050"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.511533,
+          -23.612704
+        ],
+        "type": "Point"
+      },
+      "id": "67a875d9152f3a7a41b27728c8b283b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Recife",
+        "NOME": "Vila 13",
+        "INSTAGRAM": "vilatreze",
+        "ENDEREÇO": "Rua João Uzeda Luna, 120 - agua fria",
+        "CEP": "52111310"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.894922,
+          -8.018853
+        ],
+        "type": "Point"
+      },
+      "id": "68447b43de337a9599d556c4502b3f68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Vinhedo",
+        "NOME": "GOMA SMOKESHOP",
+        "INSTAGRAM": "goma.smoke.shop",
+        "ENDEREÇO": "Rua Jundiaí, 83 - Centro",
+        "CEP": "13280071"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.97519,
+          -23.027528
+        ],
+        "type": "Point"
+      },
+      "id": "68db1d276515c888189a02f1468d8373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Vicente",
+        "NOME": "Selva Tabacaria",
+        "INSTAGRAM": "selvatabacaria",
+        "ENDEREÇO": "Rua Freitas Guimarães, 79 - itararé",
+        "CEP": "11320080"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.372075,
+          -23.969331
+        ],
+        "type": "Point"
+      },
+      "id": "6983e95f1538deca686b86560cea7dc1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "AM",
+        "CIDADE": "Manaus",
+        "NOME": "Maloca tabacaria",
+        "INSTAGRAM": "tabacariamaloca",
+        "ENDEREÇO": "Avenida Liberdade, 541- Santo Agostinho ",
+        "CEP": "69036600"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.051298,
+          -3.091938
+        ],
+        "type": "Point"
+      },
+      "id": "6a487048ec2f8dafe7264aa0ef2f37cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Barra Free",
+        "INSTAGRAM": "barrafree_",
+        "ENDEREÇO": "Av. Ana Penha Barcelos n°137",
+        "CEP": "29125080"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.322961,
+          -20.425491
+        ],
+        "type": "Point"
+      },
+      "id": "6c79204e1f0660f01ad44d14b6d0238d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Anapolis",
+        "NOME": "Apache tabacaria",
+        "INSTAGRAM": "apachetabacariaanapolis",
+        "ENDEREÇO": "R. Gen. Joaquim Inácio, com a, R. Sen. Sócrates Mardochen Diniz - St. Central",
+        "CEP": "75024-040"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.957624,
+          -16.326996
+        ],
+        "type": "Point"
+      },
+      "id": "6cfdab40edcc4a6a320481a28324b2bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Senhora Baforada",
+        "INSTAGRAM": "senhorabaforada",
+        "ENDEREÇO": "CLN 310 bloco C, 74 - asa norte",
+        "CEP": "70756-530"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.89095,
+          -15.756691
+        ],
+        "type": "Point"
+      },
+      "id": "6d2ae21ae7074ec4520125e7aca5f44f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vitória",
+        "NOME": "Mundo das Sedas",
+        "INSTAGRAM": "tabacariamundodassedas",
+        "ENDEREÇO": "R. Augusta Mendes, 03 - Monte Belo",
+        "CEP": "29053-260"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.313395,
+          -20.312425
+        ],
+        "type": "Point"
+      },
+      "id": "6dddd34bd3a287f911a78c7c7f36f38c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SC",
+        "CIDADE": "Balneário Camboriú",
+        "NOME": "Tabacaria da Vila",
+        "INSTAGRAM": "tabacariadavilabc",
+        "ENDEREÇO": "3ª Avenida, 1080 - sala 1 - Centro",
+        "CEP": "88330-084"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.635846,
+          -26.994459
+        ],
+        "type": "Point"
+      },
+      "id": "6e6d327fa6c16da7b6ef7b96f40ebba7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MA",
+        "CIDADE": "São Luis",
+        "NOME": "NATIVA headshop",
+        "INSTAGRAM": "headnativa",
+        "ENDEREÇO": "Rua Barão de Tromai, COHAB Anil I",
+        "CEP": "65050370"
+      },
+      "geometry": {
+        "coordinates": [
+          -44.282904,
+          -2.539109
+        ],
+        "type": "Point"
+      },
+      "id": "6ee3a85a33d1b4c2e407c7c5688be1e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PI",
+        "CIDADE": "Teresina ",
+        "NOME": "Mmztabacaria",
+        "INSTAGRAM": "mmztabacaria_",
+        "ENDEREÇO": "R. Alvina Fernandes Gameiro, 6242 - Uruguai",
+        "CEP": "64073-320"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.803744,
+          -5.092331
+        ],
+        "type": "Point"
+      },
+      "id": "6f30627407fee88500fd319f6399dddf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Votorantim",
+        "NOME": "Bola + 1 Headshop",
+        "INSTAGRAM": "_bolamais",
+        "ENDEREÇO": "Rua Luiz Galli 160 parque bela vista",
+        "CEP": "18110-510"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.46415,
+          -23.54418
+        ],
+        "type": "Point"
+      },
+      "id": "701ec92f71ca009a81d6d0be93d873e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Praia Grande",
+        "NOME": "Arguile , Tabaco E Cia",
+        "INSTAGRAM": "atctabacaria",
+        "ENDEREÇO": "Avenida Ayrton Senna da Silva 1511",
+        "CEP": "11726900"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.400442,
+          -23.991319
+        ],
+        "type": "Point"
+      },
+      "id": "7040df8d329782af22e27d06dcb85fe7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Cassino",
+        "NOME": "Mapacho Tabacaria",
+        "INSTAGRAM": "mapachotabacaria",
+        "ENDEREÇO": "Rua Santa Maria, 251 - cassino",
+        "CEP": "96205170"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.647416,
+          -29.30315
+        ],
+        "type": "Point"
+      },
+      "id": "7046b7423d730c535df6a3834df5bd4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Patos de Minas",
+        "NOME": "Senzala Tabacaria",
+        "INSTAGRAM": "senzalatabacaria",
+        "ENDEREÇO": "R. Ten. Bino, 22 - Centro",
+        "CEP": " 38700-108"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.515064,
+          -18.587596
+        ],
+        "type": "Point"
+      },
+      "id": "706aa7271537803b965d77b8c5feafa3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "AM",
+        "CIDADE": "Manaus ",
+        "NOME": "Revolution Tabacarias & HeadShop Djalma",
+        "INSTAGRAM": "https://revolutiontabacaria.negocio.site/",
+        "ENDEREÇO": "Retorno AmShopping Localizados Na Lateral - Av. Djalma Batista, 2455 - Chapada",
+        "CEP": "69050-010"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.023546,
+          -3.111286
+        ],
+        "type": "Point"
+      },
+      "id": "70d9d4652f5dbab80bc5ff73aa207810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "Indica Culture Headshop & Tabacaria",
+        "INSTAGRAM": "indica.culture",
+        "ENDEREÇO": "Av. Dom Hélder Câmara, 6001 - Pilares",
+        "CEP": "20771-002"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.279494,
+          -22.886111
+        ],
+        "type": "Point"
+      },
+      "id": "71245a49503beba1944e22b383e3fc76"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Limeira",
+        "NOME": "Treze tabacaria",
+        "INSTAGRAM": "Trezetabacaria",
+        "ENDEREÇO": "Rua treze de maio 650 centro",
+        "CEP": "13480171"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.403721,
+          -22.565062
+        ],
+        "type": "Point"
+      },
+      "id": "71a7b7843819a2923c7705f7cf5f9898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SE",
+        "CIDADE": "Aracaju ",
+        "NOME": "Tabacaria DaSuuL",
+        "INSTAGRAM": "tabacariadasuul_",
+        "ENDEREÇO": "R. Francisco Rabêlo Leite Neto, 274 - Atalaia",
+        "CEP": "49037-240"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.054187,
+          -10.993819
+        ],
+        "type": "Point"
+      },
+      "id": "7269ef8d076ebcf914717e1d300f94c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "TO",
+        "CIDADE": "Palmas",
+        "NOME": "City Palmas",
+        "INSTAGRAM": "Citypalmas",
+        "ENDEREÇO": "604 sul Avenida Nossa Senhora 2 plano diretor Sul - Posto Star conveniencia",
+        "CEP": "77022020"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.336863,
+          -10.218094
+        ],
+        "type": "Point"
+      },
+      "id": "7313a408373b66c10c269cf21bc781d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Cabo de santo agostinho",
+        "NOME": "De Borest Tabacaria e acessórios",
+        "INSTAGRAM": "tabacaria_de_borest",
+        "ENDEREÇO": "Avenida Historiador Pereira da Costa N 151 Sala 101 Centro",
+        "CEP": "54510360"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.034573,
+          -8.284325
+        ],
+        "type": "Point"
+      },
+      "id": "7348bd072634ca629c19a2014778a90b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PI",
+        "CIDADE": "Marabá",
+        "NOME": "Tabacaria Dispenser",
+        "INSTAGRAM": "tabacariadispenser",
+        "ENDEREÇO": "SHOPPING VERDES MARES LOJA LUC FF 51 - Nova Marabá",
+        "CEP": "68509-100"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.132705,
+          -5.385778
+        ],
+        "type": "Point"
+      },
+      "id": "74647ff8d89537d5c2ed175bd8eee8b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Tabacaria Milestone",
+        "INSTAGRAM": "milestoneoficial",
+        "ENDEREÇO": "Avenida Alberto byington 1907",
+        "CEP": "21270-001"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.587989,
+          -23.500602
+        ],
+        "type": "Point"
+      },
+      "id": "7496553388db78e1a29d6371524fa68c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Og Head Shop",
+        "INSTAGRAM": "og.headshop",
+        "ENDEREÇO": "Av. Profa. Francelina Carneiro Setúbal, 5 - Itapoã",
+        "CEP": "29101-641"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.293867,
+          -20.342223
+        ],
+        "type": "Point"
+      },
+      "id": "74bdd27ab5ac04c6102c8abb1fc5ac67"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SC",
+        "CIDADE": "Blumenau",
+        "NOME": "Flash Nacionais e Importados",
+        "INSTAGRAM": "flashnacionaiseimportados",
+        "ENDEREÇO": "Rua Sete de Setembro, num 760, sala 13. Bairro: Centro",
+        "CEP": "89010200"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.080073,
+          -26.911468
+        ],
+        "type": "Point"
+      },
+      "id": "74d2081c390f49b004bf7b4b87e38aae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "Tabacaria Lifestyle",
+        "INSTAGRAM": "lifestyl3_18",
+        "ENDEREÇO": "Rua Conde de Bonfim, 67 - Loja 102 - Tijuca",
+        "CEP": "20520-050"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.223057,
+          -22.923441
+        ],
+        "type": "Point"
+      },
+      "id": "75c083a1394473e29a22e4a349001a95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Mary Jane Head Shop",
+        "INSTAGRAM": "maryjaneheadshop019",
+        "ENDEREÇO": "Rua Carlos Weber 535 apto 213A Bairro vila Leopoldina",
+        "CEP": "05303000"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.733589,
+          -23.52225
+        ],
+        "type": "Point"
+      },
+      "id": "75f20ca102d1773a25c7be9efa76adf2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "Raiz cultivo indoor Barra",
+        "INSTAGRAM": "raizcultivoindoor",
+        "ENDEREÇO": "Avenida das Americas BL 2 LJ P, 3939 - barra da tijuca",
+        "CEP": "22631003"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.433033,
+          -23.006115
+        ],
+        "type": "Point"
+      },
+      "id": "76b96213f9efcd1b13c9c64b0f935d59"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SC",
+        "CIDADE": "Florianópolis",
+        "NOME": "Smoke shop floripa",
+        "INSTAGRAM": "smokeshopfloripa",
+        "ENDEREÇO": "R. Dr. Carlos Corrêa, 236 - sala 2 - Agronômica",
+        "CEP": "88025-250"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.527265,
+          -27.576099
+        ],
+        "type": "Point"
+      },
+      "id": "76ec2a450b037d6d5550fc085eab731c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Tabacaria Thinking slow",
+        "INSTAGRAM": "tabacariathinking",
+        "ENDEREÇO": "Rua Cajueiro - Santa Paula",
+        "CEP": "29126-160"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.315661,
+          -20.369576
+        ],
+        "type": "Point"
+      },
+      "id": "785c73fc10a0e8336cd8fedd353e456f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro",
+        "NOME": "Adoromato",
+        "INSTAGRAM": "adoromatobr",
+        "ENDEREÇO": "Rua Riachuelo 244 - Galeria, 10 - centro",
+        "CEP": "20230015"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.180595,
+          -22.913562
+        ],
+        "type": "Point"
+      },
+      "id": "7a0b693531076a6042f9ee800e23a773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasilia",
+        "NOME": "Tabacaria Porto",
+        "INSTAGRAM": "tabacariaporto",
+        "ENDEREÇO": "Aos 08 Bloco B apt. 101",
+        "CEP": "70660082"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.928266,
+          -15.803018
+        ],
+        "type": "Point"
+      },
+      "id": "7a0fba21711607c5972eaea2fcaee9e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Novo Gama",
+        "NOME": "Tabacaria Marley",
+        "INSTAGRAM": "tabacariamarleyoficial",
+        "ENDEREÇO": "Quadra 729 lote 15/16, Loja 10 - Parque Estrela Dalva VI",
+        "CEP": "72860-756"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.0588,
+          -16.091526
+        ],
+        "type": "Point"
+      },
+      "id": "7a45a8a6227afe5ccabf25539afc0365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São paulo",
+        "NOME": "PoPipe HeadShop",
+        "INSTAGRAM": "popipeheadshop",
+        "ENDEREÇO": "Rua Pamplona, 1057 ",
+        "CEP": "01405-001"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.65885,
+          -23.569027
+        ],
+        "type": "Point"
+      },
+      "id": "7b4ca5d7a6e1653ccd5eea5f03914167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São caetano do sul",
+        "NOME": "Blessed Headshop",
+        "INSTAGRAM": "blessedheadshop",
+        "ENDEREÇO": "Rua Manoel Coelho 700 - centro",
+        "CEP": "9510110"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.572687,
+          -23.615713
+        ],
+        "type": "Point"
+      },
+      "id": "7d84329fcbddd96b108d8c61bf92f31f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SC",
+        "CIDADE": "Balneário Camboriú",
+        "NOME": "Vintage Tabacaria",
+        "INSTAGRAM": "vintagetabacaria_bc",
+        "ENDEREÇO": "Av. Central, 413 - Centro",
+        "CEP": "88330-668"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.635834,
+          -26.988338
+        ],
+        "type": "Point"
+      },
+      "id": "7ecb5e5be39efd5674025bcbfeb8c5db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Manhuaçu",
+        "NOME": "Tabacanna tabacaria",
+        "INSTAGRAM": "tabacariatabacanna",
+        "ENDEREÇO": "R. Júlio Bueno, Número 356 - Centro",
+        "CEP": " 36906-001"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.03715,
+          -20.264072
+        ],
+        "type": "Point"
+      },
+      "id": "7fa0dbe992f915424bed01e686a37ad5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PB",
+        "CIDADE": "Cajazeiras",
+        "NOME": "Like smoke CZ",
+        "INSTAGRAM": "likesmokecz",
+        "ENDEREÇO": "Rua São Sebastião n284 - centro",
+        "CEP": "58900-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.566711,
+          -6.891601
+        ],
+        "type": "Point"
+      },
+      "id": "7faf0c9eef14a1e1df4dd350375634ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RN",
+        "CIDADE": "Natal",
+        "NOME": "Ervaterapia kumbaya",
+        "INSTAGRAM": "ervaterapiakumbaya",
+        "ENDEREÇO": "Rua Teatrólogo Jesiel Figueiredo, 56 B - Planalto",
+        "CEP": "59073-275"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.262949,
+          -5.852222
+        ],
+        "type": "Point"
+      },
+      "id": "7fd61862140d9f15377902de5de93cfe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PI",
+        "CIDADE": "OEIRAS",
+        "NOME": "Sv Digital shop",
+        "INSTAGRAM": "svdigitalshop",
+        "ENDEREÇO": "RUA SANTA HELENA, MERCADO MUNICIPAL DONA LILI - BOX 10",
+        "CEP": "64500000"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.125594,
+          -7.014662
+        ],
+        "type": "Point"
+      },
+      "id": "8142b56a80f979fcbd88bd3523c6ef25"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Lajeado",
+        "NOME": "Coala Headshop",
+        "INSTAGRAM": "coala_headshop",
+        "ENDEREÇO": "Rua Saldanha Marinho Sala 3 (Sub Solo Vovo Faz Bolo - Centro",
+        "CEP": "95900-020"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.966801,
+          -29.462
+        ],
+        "type": "Point"
+      },
+      "id": "81d40203fb900fab4f41b9bc98284588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Jundiaí",
+        "NOME": "Magic Smoke",
+        "INSTAGRAM": "lojamagicsmoke",
+        "ENDEREÇO": "Rua Barão de Teffé 25",
+        "CEP": "13208760"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.898024,
+          -23.189403
+        ],
+        "type": "Point"
+      },
+      "id": "8240fdaf13a8e8cba43b8b540c48af5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Franca",
+        "NOME": "Dogs tabacaria",
+        "INSTAGRAM": "dogstabacaria",
+        "ENDEREÇO": "Avenida Adhemar Pereira De Barros",
+        "CEP": "14402250"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.36969,
+          -20.525596
+        ],
+        "type": "Point"
+      },
+      "id": "8335603683e1646f54c6d2b67587f3cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PB",
+        "CIDADE": "João Pessoa",
+        "NOME": "Sapatuda Head",
+        "INSTAGRAM": "sapatudahead",
+        "ENDEREÇO": "Rua manoel Paulino junior, 250 - tambauzinho",
+        "CEP": "58042000"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.848816,
+          -7.12041
+        ],
+        "type": "Point"
+      },
+      "id": "836af66413c67faf17d9dc90797f0ff3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Pothead smoke shop",
+        "INSTAGRAM": "phdsmoke",
+        "ENDEREÇO": "Rua Blumenau 242",
+        "CEP": "05319-020 "
+      },
+      "geometry": {
+        "coordinates": [
+          -46.728058,
+          -23.536816
+        ],
+        "type": "Point"
+      },
+      "id": "83e1c2c7a824a50f34f67aa51529e5c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SE",
+        "CIDADE": "Aracaju",
+        "NOME": "BOTE O SEU TABACARIA",
+        "INSTAGRAM": "boteoseu.tabacaria ",
+        "ENDEREÇO": "NAPOLEAO DÓREA, 723, Cond Residencial Santa Cecília bloco h apt 304",
+        "CEP": "49037-460"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.053542,
+          -10.989607
+        ],
+        "type": "Point"
+      },
+      "id": "84369c002af7377617d5035c29fe212f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São bernardo do campo",
+        "NOME": "Arahat tabacaria",
+        "INSTAGRAM": "tabacaria.arahat",
+        "ENDEREÇO": "R. Mal. Deodoro, 257 - Centro",
+        "CEP": "09710-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.551361,
+          -23.705298
+        ],
+        "type": "Point"
+      },
+      "id": "851391aca4f8b3cf0354194102261182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Lauro de Freitas",
+        "NOME": "Nativus Tabacaria e Headshop",
+        "INSTAGRAM": "nativustabacaria",
+        "ENDEREÇO": "Av. Praia de Itapuã - Vilas do Atlântico; Shopping Terrazzo Villas",
+        "CEP": "42707-650"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.299205,
+          -12.88725
+        ],
+        "type": "Point"
+      },
+      "id": "857328665d75ddd679714e513e3bdb7d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": " Uberaba",
+        "NOME": "Gods Tattoo Headshop",
+        "INSTAGRAM": "godstattooheadshop",
+        "ENDEREÇO": "Rua Ronan Martins Marquez, 560 - Santa Maria",
+        "CEP": "38050-600"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.962538,
+          -19.752822
+        ],
+        "type": "Point"
+      },
+      "id": "858dcd16a9f9ccc822691b732fd20bcd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São paulo",
+        "NOME": "Pachamama tabacaria",
+        "INSTAGRAM": "pachamama_tabacaria",
+        "ENDEREÇO": "Catulo da paixão cearense,25",
+        "CEP": " 04145-010"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.631999,
+          -23.615572
+        ],
+        "type": "Point"
+      },
+      "id": "85b0b140d76010c9cf3828b92a7511be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "CE",
+        "CIDADE": "Aracati",
+        "NOME": "De Alta Headshop e Tabacaria",
+        "INSTAGRAM": "dealta.shop",
+        "ENDEREÇO": "Rua vila Isaura 44",
+        "CEP": "62800000"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.774538,
+          -4.565276
+        ],
+        "type": "Point"
+      },
+      "id": "862b190e941bd50130b4b3600ebe80c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "AP",
+        "CIDADE": "Macapá",
+        "NOME": "Jungle Headshop",
+        "INSTAGRAM": "jungle.headshop",
+        "ENDEREÇO": "Avenida Diógenes Silva, 2441 - Santa rita",
+        "CEP": "68901326"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.079963,
+          0.265851
+        ],
+        "type": "Point"
+      },
+      "id": "865339b03401b464cad4a6a04f5f3308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Pindamonhangaba",
+        "NOME": "Tabacaria das Ideias",
+        "INSTAGRAM": "tabacariadasideias",
+        "ENDEREÇO": "Av dr João Ribeiro 200- jardim boa visto",
+        "CEP": "12401-110"
+      },
+      "geometry": {
+        "coordinates": [
+          -45.470619,
+          -22.925407
+        ],
+        "type": "Point"
+      },
+      "id": "88230780dc934da0c30de8c522706fe3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Santa cruz do sul",
+        "NOME": "Smoke Center Head Shop",
+        "INSTAGRAM": "smokecenterheadshop",
+        "ENDEREÇO": "Av senador Pasqualini 158 loja 1",
+        "CEP": "96820050"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.434838,
+          -29.722516
+        ],
+        "type": "Point"
+      },
+      "id": "88681addadcdf2ac88d9a7cb4bac60e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Leon Tabacaria",
+        "INSTAGRAM": "leontabacaria",
+        "ENDEREÇO": "R. Belo Horizonte, 254 - Loja 6 - Itapoã - Em frente o espaço da Dança - ",
+        "CEP": "29101-680"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.289729,
+          -20.351385
+        ],
+        "type": "Point"
+      },
+      "id": "8910d0dd5f540dc145b8f897d7dbd59d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Iririu Tabacaria e headshop",
+        "INSTAGRAM": "iririu.tabacaria",
+        "ENDEREÇO": "R. Prof. Humberto de Campos, 84 - Ataíde",
+        "CEP": "29119-220"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.325405,
+          -20.343794
+        ],
+        "type": "Point"
+      },
+      "id": "8a2762b0c55d83fd5d4f49278969473d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Pelotas ",
+        "NOME": "Enjoy High Culture ",
+        "INSTAGRAM": "enjoyhighculture_",
+        "ENDEREÇO": "Rua padre anchieta, 1537 - centro",
+        "CEP": "96015420"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.339291,
+          -31.766556
+        ],
+        "type": "Point"
+      },
+      "id": "8a50742d79b28c262a6dc30936fa3f35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "TABACARIA DUMAGRÃO",
+        "INSTAGRAM": "tabacariadumagrao",
+        "ENDEREÇO": "Rua São Gabriel da Palha, 22",
+        "CEP": "29113700"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.347007,
+          -20.374833
+        ],
+        "type": "Point"
+      },
+      "id": "8ba9f3b33d8fa77026b404875746e167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Viana",
+        "NOME": "Tabacaria Fyaman",
+        "INSTAGRAM": "tabacariafyaman",
+        "ENDEREÇO": "Avenida Espírito Santo quadra 11, 16 - Marcilio de noronha",
+        "CEP": "29135-508"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.392131,
+          -20.351371
+        ],
+        "type": "Point"
+      },
+      "id": "8c750cd06cceec6ae5e27504dc628567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PA",
+        "CIDADE": "Belém",
+        "NOME": "Batista tabacaria",
+        "INSTAGRAM": "tabacaria_batista",
+        "ENDEREÇO": "Avenida Almirante Barroso, 71 shopping são Brás loja 6",
+        "CEP": "66093020"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.446018,
+          -1.417668
+        ],
+        "type": "Point"
+      },
+      "id": "8d9efbc2fa6925a64c7c38ac3c14984e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro",
+        "NOME": "De Boa ",
+        "INSTAGRAM": "ta.deboa",
+        "ENDEREÇO": "Avenida Maracanã 894, apto 101 - Tijuca - Rio de Janeiro",
+        "CEP": "20540103"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.230155,
+          -22.912108
+        ],
+        "type": "Point"
+      },
+      "id": "8f312c900966383c2d1d7564e63bb428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "CE",
+        "CIDADE": "Fortaleza ",
+        "NOME": "Bongô Tabacaria Fortaleza",
+        "INSTAGRAM": "bongotabacariabr",
+        "ENDEREÇO": "R. João Alves de Albuquerque, 341 - Parque Manibura",
+        "CEP": "60821-730"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.4819,
+          -3.794319
+        ],
+        "type": "Point"
+      },
+      "id": "904295e4d9cb3d2f3e74c23ab576c193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Planaltina",
+        "NOME": "Rapeize Headshop & Tabacaria",
+        "INSTAGRAM": "rapeizeheadshop",
+        "ENDEREÇO": "QRK, Conj. K7, 27 - setor militar",
+        "CEP": "73343121"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.954007,
+          -15.856513
+        ],
+        "type": "Point"
+      },
+      "id": "9093483c6c70bf0428f5aa0d7b06bc46"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro",
+        "NOME": "Raiz Cultivo Indoor",
+        "INSTAGRAM": "raizcultivoindoor",
+        "ENDEREÇO": "Avenida Augusto Severo, loja A, 292 - gloria",
+        "CEP": "20021-040"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.176595,
+          -22.917265
+        ],
+        "type": "Point"
+      },
+      "id": "90b0e8db7d4da3e41858cc2f53f434c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PR",
+        "CIDADE": "Araucária",
+        "NOME": "Shisha store tabacaria araucária",
+        "INSTAGRAM": "shishastore2",
+        "ENDEREÇO": "R. Pres. Euríco Gáspar Dutra, 307 - Passaúna",
+        "CEP": "83704-170"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.425807,
+          -25.576177
+        ],
+        "type": "Point"
+      },
+      "id": "9118268f6bb842a15efc88214739fbef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Paulista ",
+        "NOME": "M.a tabacaria",
+        "INSTAGRAM": "m.a.tabacaria",
+        "ENDEREÇO": "Av. Colibri, 51 B - Maranguape I",
+        "CEP": "53444-500"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.860446,
+          -7.95263
+        ],
+        "type": "Point"
+      },
+      "id": "91a668ad49b658fad08dbc8092575690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SC",
+        "CIDADE": "Joinville",
+        "NOME": "Bhang Tabacaria Growshop",
+        "INSTAGRAM": "bhang_growshop",
+        "ENDEREÇO": "R. Princesa Isabel, 259b - sala 105 - Centro",
+        "CEP": "89201-270"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.845254,
+          -26.299839
+        ],
+        "type": "Point"
+      },
+      "id": "9273cc8425f79cf6c9a451ffc1585d45"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Rifaina",
+        "NOME": "Tabacaria Diamond",
+        "INSTAGRAM": "tabacariaa_diamond",
+        "ENDEREÇO": "Rua Praça 9 de julho",
+        "CEP": "14490000"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.420047,
+          -20.080595
+        ],
+        "type": "Point"
+      },
+      "id": "93503bd4a7e79ef375cce12cb2625682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Green Shop Tabacaria",
+        "INSTAGRAM": "greenshop_027",
+        "ENDEREÇO": "Rua, Av. Agenor Barbato, 426 - Glória",
+        "CEP": "29100-622"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.309079,
+          -20.334497
+        ],
+        "type": "Point"
+      },
+      "id": "956053f9d9a388549400c86412391c2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Serra",
+        "NOME": "Dope Tabacaria",
+        "INSTAGRAM": "dope_tabacaria",
+        "ENDEREÇO": "Rua B 5, numero 20, loja 04",
+        "CEP": "29160-307"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.268178,
+          -20.243048
+        ],
+        "type": "Point"
+      },
+      "id": "95c4b179993f71a156678fae0158aa29"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "AC",
+        "CIDADE": "Rio Branco",
+        "NOME": "Tabacaria Negreiros",
+        "INSTAGRAM": "tabacaria_negreiros",
+        "ENDEREÇO": "Mercado Do Bosque , Ao lado da Universo Das Chaves, Av. Nações Unidas, 540 - Bosque",
+        "CEP": " 69900-721"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.811306,
+          -9.964277
+        ],
+        "type": "Point"
+      },
+      "id": "96d697463d6de17d8ec47678509b8026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PI",
+        "CIDADE": "Teresina ",
+        "NOME": "Lord Tabacaria",
+        "INSTAGRAM": "lordtabacaria",
+        "ENDEREÇO": "Q. U, casa 19 - Parque Jacinta",
+        "CEP": "64035-460"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.757541,
+          -5.180899
+        ],
+        "type": "Point"
+      },
+      "id": "96e8338d14ce864e511dcb1c4eac9474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Loja Belli Roots",
+        "INSTAGRAM": "bellirootsoficial",
+        "ENDEREÇO": "Rua 24 de maio, 57, República",
+        "CEP": "01041-001"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.640589,
+          -23.543502
+        ],
+        "type": "Point"
+      },
+      "id": "96f247f115a36a88a6fe69cd867c34d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Botucatu",
+        "NOME": "Texas Headshop",
+        "INSTAGRAM": "texas.tabacaria.headshop",
+        "ENDEREÇO": "Avenida Camilo mazoni 1551 - Jd paraíso",
+        "CEP": "18610285"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.436922,
+          -22.859248
+        ],
+        "type": "Point"
+      },
+      "id": "9717da1d4d8a14f204c5cbe860eba09e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Franca",
+        "NOME": "YES TABACARIA",
+        "INSTAGRAM": "yestabacariaa",
+        "ENDEREÇO": "Avenida Santa Cruz 2615 Vila Santa Cruz",
+        "CEP": "14403-500"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.374776,
+          -20.541062
+        ],
+        "type": "Point"
+      },
+      "id": "99a0a0ec93b2848811b45e74e2c727c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Shelby tabacaria",
+        "INSTAGRAM": "Tabacariashelby27",
+        "ENDEREÇO": "Av João Mendes, 171",
+        "CEP": "29105200"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.309042,
+          -20.366171
+        ],
+        "type": "Point"
+      },
+      "id": "99e949aeab071477796d6a0f7280a861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PA",
+        "CIDADE": "Belém ",
+        "NOME": "Tabaqueira",
+        "INSTAGRAM": "tabaqueira.com.br",
+        "ENDEREÇO": "Av. Visc. de Souza Franco, 472 - Reduto",
+        "CEP": "66053-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.492062,
+          -1.441059
+        ],
+        "type": "Point"
+      },
+      "id": "9a8fc3478c20ad386eace6b285e87592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Porto Alegre",
+        "NOME": "Merlin Head Shop e Tabacaria Centro",
+        "INSTAGRAM": "merlincentro https://merlincentro.vendizap.com/",
+        "ENDEREÇO": "R. Mal. Floriano Peixoto, 7 - Centro Histórico",
+        "CEP": "90020-060"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.226956,
+          -30.031229
+        ],
+        "type": "Point"
+      },
+      "id": "9ad2f1e381c97866bc1b7a4dc6796cb0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Fullmelier tabacaria",
+        "INSTAGRAM": "fullmelier",
+        "ENDEREÇO": "Qnm 38 area especial 1",
+        "CEP": "72145606"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.071231,
+          -16.020963
+        ],
+        "type": "Point"
+      },
+      "id": "9b9230337f280244963665757d4d08a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Porto Alegre",
+        "NOME": "Headshop Minuano",
+        "INSTAGRAM": "headshopminuano",
+        "ENDEREÇO": "Av Azenha 1377 loja, 2",
+        "CEP": "90160003"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.214674,
+          -30.055144
+        ],
+        "type": "Point"
+      },
+      "id": "9c243388d2b3a7a97f451409d58a6655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Belo Horizonte",
+        "NOME": "Iguaria headhshop",
+        "INSTAGRAM": "iguariaheadshop",
+        "ENDEREÇO": "Rua padre Eustáquio 142 Carlos Prates",
+        "CEP": "30710580"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.979429,
+          -19.919118
+        ],
+        "type": "Point"
+      },
+      "id": "9ce77bf317bfe2f8808636b584f5b580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "CE",
+        "CIDADE": "Fortaleza ",
+        "NOME": "Dazarea HeadShop & Tabacaria",
+        "INSTAGRAM": "dazareatabacaria",
+        "ENDEREÇO": "R. Lousano, 106 - Vicente Pinzon",
+        "CEP": "60184-150"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.473153,
+          -3.726607
+        ],
+        "type": "Point"
+      },
+      "id": "9d6faead1fb59e969e53da635a208e1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Salvador ",
+        "NOME": "Café Cumbáco Headshop e Tabacaria",
+        "INSTAGRAM": "cafecumbaco",
+        "ENDEREÇO": "Empório Greco - Alameda Dilson Jatahy Fonseca, 1248 - Loja 3 - Stella Maris",
+        "CEP": "41600-100"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.50142,
+          -12.972228
+        ],
+        "type": "Point"
+      },
+      "id": "9e1684f83a6583e7b4387469b54edeea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São carlos",
+        "NOME": "Sanka roots",
+        "INSTAGRAM": "sanka.rootsss",
+        "ENDEREÇO": "Rua Antônio Stella Moruzzi, 300 apto 21 bloco 28, Jardim Das Torres",
+        "CEP": "13575390"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.89085,
+          -22.013292
+        ],
+        "type": "Point"
+      },
+      "id": "9f25e4d68605d7cfd38928b4c83061b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Passos",
+        "NOME": "Mago Indoors",
+        "INSTAGRAM": "magoindoors",
+        "ENDEREÇO": "Avenida chafariz 2869",
+        "CEP": "37901240"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.589377,
+          -20.722323
+        ],
+        "type": "Point"
+      },
+      "id": "9f30c9668d95da5c796b6e07a31e40d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Belo Horizonte",
+        "NOME": "Be Happy BH Centro",
+        "INSTAGRAM": "behappybhcentro",
+        "ENDEREÇO": "Rua dos Goitacazes, 193 - Centro",
+        "CEP": "30190-050"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.943198,
+          -19.921933
+        ],
+        "type": "Point"
+      },
+      "id": "9f7e4dbda373376a6dc51be5454bb342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Niterói",
+        "NOME": "Ta de boa 420 ",
+        "INSTAGRAM": "ta.deboa",
+        "ENDEREÇO": "Rua Leite Ribeiro 107, bloco 1, apto 302 - Fonseca",
+        "CEP": "24120210"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.09401,
+          -22.884407
+        ],
+        "type": "Point"
+      },
+      "id": "9faf2885b428b4596e0967f3116d6fd5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Belo Horizonte",
+        "NOME": "Lojas Jamaicanas HempStore",
+        "INSTAGRAM": "lojasjamaicanas",
+        "ENDEREÇO": "Rua dos Tupis, 449 - Centro",
+        "CEP": "30190-060"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.942008,
+          -19.920924
+        ],
+        "type": "Point"
+      },
+      "id": "9fbdad15fd3fcc07195b4f361ae460a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Belo horizonte",
+        "NOME": "Loja dos meninos",
+        "INSTAGRAM": "lojadosmeninos",
+        "ENDEREÇO": "Av. Augusto de Lima, 744",
+        "CEP": " 30190-922"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.943071,
+          -19.922907
+        ],
+        "type": "Point"
+      },
+      "id": "9fef1025afc3682193b183e60af19fcf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PI",
+        "CIDADE": "Luzilândia",
+        "NOME": "Live Happy Tabacaria & Head Shop",
+        "INSTAGRAM": "livehappytabacaria",
+        "ENDEREÇO": "Conjunto Raimundo Marques Q G n° 21 sala B",
+        "CEP": "64160-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.369015,
+          -3.465063
+        ],
+        "type": "Point"
+      },
+      "id": "a064a12d75766022b572f433ad043a7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Araçatuba",
+        "NOME": "Corleone tabacaria",
+        "INSTAGRAM": "corleone.tabacaria",
+        "ENDEREÇO": "R. Cussy de Almeida Júnior, 2083 - São João",
+        "CEP": "16025-050"
+      },
+      "geometry": {
+        "coordinates": [
+          -50.43216,
+          -21.211326
+        ],
+        "type": "Point"
+      },
+      "id": "a08d35b3bf591c2c201f9d222bb04836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "Green Pac - Tabacaria",
+        "INSTAGRAM": "Greenpactabacaria",
+        "ENDEREÇO": " R. Água Doce, 220-221 - Cordovil,",
+        "CEP": "21010-200"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.294169,
+          -22.819164
+        ],
+        "type": "Point"
+      },
+      "id": "a0ea4dabc58314df2f0b1154e0835019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "TO",
+        "CIDADE": "Palmas",
+        "NOME": "Aloha Headshop & Tabacaria",
+        "INSTAGRAM": "aloha.headshop",
+        "ENDEREÇO": "Quadra 110 Norte, Avenida Jk, nº16, lote 9, Sala 8",
+        "CEP": "77006-130"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.331826,
+          -10.184469
+        ],
+        "type": "Point"
+      },
+      "id": "a201cdaf20a9d117d9e74b3d30d60f69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Cocalzinho de goiás",
+        "NOME": "Laraz",
+        "INSTAGRAM": "larazdelivery",
+        "ENDEREÇO": "Avenida São Paulo Q25 Lote 03 S/N nº 2",
+        "CEP": "72975000"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.767317,
+          -15.778578
+        ],
+        "type": "Point"
+      },
+      "id": "a26340c6bc87f8d33fc4884400c85226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Serra",
+        "NOME": "Tabacaria folha de fumo",
+        "INSTAGRAM": "tabacaria_folhadefumo",
+        "ENDEREÇO": "Av. Brasil, 310 - Novo Horizonte",
+        "CEP": "29163-331"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.307789,
+          -20.121522
+        ],
+        "type": "Point"
+      },
+      "id": "a27e70998823a88a82640364543b19e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "São Mateus",
+        "NOME": "Jhones Tabacaria",
+        "INSTAGRAM": "jhonestabacaria",
+        "ENDEREÇO": "Rua Floriano Peixoto s/n Na Rodoviaria da Aguia Branca Ao Lado da Praça Mesquita Neto - Centro",
+        "CEP": "29930-270"
+      },
+      "geometry": {
+        "coordinates": [
+          -39.856633,
+          -18.715891
+        ],
+        "type": "Point"
+      },
+      "id": "a36f1ac591ca9cc06f247ec8c3ab8f86"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Sorocaba",
+        "NOME": "Made in Rua",
+        "INSTAGRAM": "madeinrua",
+        "ENDEREÇO": "Rua Santa Clara, 560 - centro",
+        "CEP": "18035252"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.457174,
+          -23.503745
+        ],
+        "type": "Point"
+      },
+      "id": "a4af76ffbb75c7e4f5cccc084a4e090c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "CE",
+        "CIDADE": "Fortaleza ",
+        "NOME": "Smoke Session headshop",
+        "INSTAGRAM": "smokesessionbrasil",
+        "ENDEREÇO": "R. Júlio Azevedo, 1720 - Cocó - Parque Estadual do Rio Cocó",
+        "CEP": "60192-310"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.478325,
+          -3.736634
+        ],
+        "type": "Point"
+      },
+      "id": "a4f39fd42a55a069e6f129507b2f6cbf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PB",
+        "CIDADE": "ÁGUA BRANCA",
+        "NOME": "TÊTÊBOB TABACARIA SHOP",
+        "INSTAGRAM": "tetebobt",
+        "ENDEREÇO": "Rua nino florêncio",
+        "CEP": "58748000"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.640834,
+          -7.514562
+        ],
+        "type": "Point"
+      },
+      "id": "a503717b0f31ae655aa51711ad84a8a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PR",
+        "CIDADE": "Maringá",
+        "NOME": "Street panda",
+        "INSTAGRAM": "Streetpandatabaca",
+        "ENDEREÇO": "Av Mauá -2946- zona 03",
+        "CEP": "87050020"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.9192,
+          -23.423349
+        ],
+        "type": "Point"
+      },
+      "id": "a53ee96f25f61bfff8b74dcb51ef667d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Camaçari",
+        "NOME": "Tabacaria trilha e mar",
+        "INSTAGRAM": "tabacariatrilhaemar",
+        "ENDEREÇO": "Rua direta de arembepe, loja 01, praça dos Coqueiros",
+        "CEP": "42835-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.177105,
+          -12.771996
+        ],
+        "type": "Point"
+      },
+      "id": "a544fd80f4f47f94cdf24412c69f20e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Conceição do Jacuípe",
+        "NOME": "ConJah Tabacaria",
+        "INSTAGRAM": "conjah.tabacaria",
+        "ENDEREÇO": "Francisco Azevedo Moraes, 433, centro ",
+        "CEP": "44245000"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.767963,
+          -12.326015
+        ],
+        "type": "Point"
+      },
+      "id": "a59c4625a89f048ab9eea0aeea926c61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Bolenath Head Shop",
+        "INSTAGRAM": "bolenatheadshop",
+        "ENDEREÇO": "Rua Engenheiro José Salles, 345 , 2 - socorro",
+        "CEP": "04776100"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.699878,
+          -23.690881
+        ],
+        "type": "Point"
+      },
+      "id": "a5ea4bafb1708c66b0c9c16658946a9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PR",
+        "CIDADE": "Curitiba",
+        "NOME": "Tabacaria Aladin",
+        "INSTAGRAM": "aladdin.tabacaria",
+        "ENDEREÇO": "Rua Fioravante Slaviero, 1039 - Novo Mundo",
+        "CEP": "81170-110"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.32089,
+          -25.513687
+        ],
+        "type": "Point"
+      },
+      "id": "a630694901d05202f5376cff0428af99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Indaiatuba",
+        "NOME": "Ice Baco Headshop e Tabacaria",
+        "INSTAGRAM": "ice_baco",
+        "ENDEREÇO": "Rua Uruguai, 164 - vila castelo branco",
+        "CEP": "13338110"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.196377,
+          -23.089678
+        ],
+        "type": "Point"
+      },
+      "id": "a6936247b67f908fc39af212387d3e73"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Mangaratiba",
+        "NOME": "Flor da Vida Tabacaria ",
+        "INSTAGRAM": "tabaflordavida",
+        "ENDEREÇO": "Rua Adalberto Pereira pinto 838",
+        "CEP": "23860000"
+      },
+      "geometry": {
+        "coordinates": [
+          -44.16168,
+          -23.025338
+        ],
+        "type": "Point"
+      },
+      "id": "a6ca200157e18843209a627e34a17c25"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Pindorama",
+        "NOME": " Velho Oeste Tabacaria",
+        "INSTAGRAM": "tabacariavelhooeste_pindorama",
+        "ENDEREÇO": "Rua Quinze de Novembro, 315 Centro",
+        "CEP": "15830-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.905317,
+          -21.188012
+        ],
+        "type": "Point"
+      },
+      "id": "a72c30c9dcf1159bc5c7862babd1580c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Montenegro",
+        "NOME": "TABACARIA SMOKETOWN",
+        "INSTAGRAM": "smktown",
+        "ENDEREÇO": "Rua Ramiro Barcelos  1756 bairro centro",
+        "CEP": "92510270"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.459694,
+          -29.688159
+        ],
+        "type": "Point"
+      },
+      "id": "a734317f29781b5ad354b77d21332bd1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "TAK - Tabacaria Artesanal Kumbayah",
+        "INSTAGRAM": "taktabacaria",
+        "ENDEREÇO": "CLN 411 BL E - Asa Norte",
+        "CEP": "70866-550"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.881217,
+          -15.75322
+        ],
+        "type": "Point"
+      },
+      "id": "a8e6bcee1bc9955cfa827b8ff069d9b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Tabacaria da casa",
+        "INSTAGRAM": "tabacariadacasa",
+        "ENDEREÇO": "Rua Doutor Luiz Migliano 871 - ap83b",
+        "CEP": "5711001"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.741641,
+          -23.620639
+        ],
+        "type": "Point"
+      },
+      "id": "a964394b565dbedee8b1316331e2d39d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Porto Alegre",
+        "NOME": "Head Shop 38",
+        "INSTAGRAM": "headshop38",
+        "ENDEREÇO": "Av. Wenceslau Escobar, 1740 - Tristeza",
+        "CEP": "91900-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.253536,
+          -30.116739
+        ],
+        "type": "Point"
+      },
+      "id": "a982e3622315b1a6e8b8e575e829731b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Campinas",
+        "NOME": "Head&Hash Campinas",
+        "INSTAGRAM": "headhash_tabacaria",
+        "ENDEREÇO": "Av. Baden Powell 1656 ",
+        "CEP": "13040-093"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.059408,
+          -22.941368
+        ],
+        "type": "Point"
+      },
+      "id": "aaa5404521c1c2153064116344941bc6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PR",
+        "CIDADE": "Curitiba",
+        "NOME": "Habinoski Tabacaria",
+        "INSTAGRAM": "habinoskitabacaria",
+        "ENDEREÇO": "R. Castro, 888 - Água Verde",
+        "CEP": "80620-300"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.279323,
+          -25.459251
+        ],
+        "type": "Point"
+      },
+      "id": "ab954b2053b3a4eebb1c40691f78cea9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vitória",
+        "NOME": "Tabacaria Pit Stop",
+        "INSTAGRAM": "tabacariapitstop",
+        "ENDEREÇO": "Em frente a - Av Fernando Ferrari, Pte. da Passagem, 8 - Pontal Camburi",
+        "CEP": "29062-020"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.302363,
+          -20.286815
+        ],
+        "type": "Point"
+      },
+      "id": "abd3932210a4bc649f1e2d8e71e0bf43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro",
+        "NOME": "LSWHOUSE",
+        "INSTAGRAM": "lswhouse",
+        "ENDEREÇO": "Rua Itaque 1032 bloco17 ap201",
+        "CEP": "23094350"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.522497,
+          -22.872543
+        ],
+        "type": "Point"
+      },
+      "id": "ac93901081e8f83523f6fa76b9c7a09c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Campinas",
+        "NOME": "Tabacaria Castro",
+        "INSTAGRAM": "castrotabacaria",
+        "ENDEREÇO": "Mercado Campineiro Central - Box 14 988, Rua Barão de Jaguara - centro",
+        "CEP": "13015-001"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.057279,
+          -22.907906
+        ],
+        "type": "Point"
+      },
+      "id": "ad33f019645f6034995e629e143aa820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Popeye Tabacaria",
+        "INSTAGRAM": "https://popeyetabacaria.com/loja/",
+        "ENDEREÇO": "R. Santos Dumont, 450 - Soteco",
+        "CEP": "29106-200"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.31892,
+          -20.358186
+        ],
+        "type": "Point"
+      },
+      "id": "ad48bcc42d48680b230a1772a508bddb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "AM",
+        "CIDADE": "Manaus ",
+        "NOME": "Tabacaria Xamã ",
+        "INSTAGRAM": "tabacaria_xama",
+        "ENDEREÇO": "Av. norte sul, 573 - Alvorada",
+        "CEP": "69048340"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.03542,
+          -3.070911
+        ],
+        "type": "Point"
+      },
+      "id": "ad6088b4a3717549a414b0df88d01acb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Serra",
+        "NOME": "Tabacaria las quebradas",
+        "INSTAGRAM": "tabacaria_las_quebradas",
+        "ENDEREÇO": "Av. Brasília, 932 - Porto Canoa",
+        "CEP": "29168-600"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.307789,
+          -20.121522
+        ],
+        "type": "Point"
+      },
+      "id": "ad9ce6b1fabddf4854c45c87dc3d6248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Santo André ",
+        "NOME": "Oka do Saci",
+        "INSTAGRAM": "okadosaci",
+        "ENDEREÇO": "Rua Ibatiba, 124 - Bloco 3, 4 - vila metalurgica",
+        "CEP": "09220608"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.539204,
+          -23.615356
+        ],
+        "type": "Point"
+      },
+      "id": "ae29416c122752d7dd9bbd3ec14c2e4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "Sp ",
+        "CIDADE": "São Paulo ",
+        "NOME": "Hippo Head Shop",
+        "INSTAGRAM": "hippoheadshop",
+        "ENDEREÇO": "Rua Frei Mateus da encarnação Pina - parque colonial",
+        "CEP": "04821290"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.687998,
+          -23.724714
+        ],
+        "type": "Point"
+      },
+      "id": "b2577a6f97ebc717b963fe5cd64fb469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Abreu e lima",
+        "NOME": "Tabacaria caetés",
+        "INSTAGRAM": "tabacariacaetes",
+        "ENDEREÇO": "R. Caruaru, 912 - Caetés Velho",
+        "CEP": "53560590"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.911948,
+          -7.906898
+        ],
+        "type": "Point"
+      },
+      "id": "b295f34fe4be3122f5ea6d03a1b9dba0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SC",
+        "CIDADE": "Lages",
+        "NOME": "Nostro Fumo Lages",
+        "INSTAGRAM": "nostrofumolages",
+        "ENDEREÇO": "Av. Pres. Vargas, 1369 - Sagrado Coracao de Jesus",
+        "CEP": "88502-255"
+      },
+      "geometry": {
+        "coordinates": [
+          -50.308022,
+          -27.811585
+        ],
+        "type": "Point"
+      },
+      "id": "b4cd44d48d9c52933b0ed6792706798a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "CE",
+        "CIDADE": "Fortaleza ",
+        "NOME": "Future smoke shop",
+        "INSTAGRAM": "futuretabacaria",
+        "ENDEREÇO": "Rua Germano Franck 300 quiosq 34 - Parangaba",
+        "CEP": "60740-020"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.561026,
+          -3.776279
+        ],
+        "type": "Point"
+      },
+      "id": "b54cecf0bd3117de8cba020a905a366e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Goiânia",
+        "NOME": "Tabacaria Roots Green",
+        "INSTAGRAM": "rootsgreenoficial",
+        "ENDEREÇO": "Av. Cristóvão Colombo, Quadra 205 - Lote 27 - Jardim Novo Mundo",
+        "CEP": "74705-130"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.358411,
+          -16.692743
+        ],
+        "type": "Point"
+      },
+      "id": "b58727dec7ded31a816435d2cdfb0481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Cruzeiro",
+        "NOME": "Cafundó Art",
+        "INSTAGRAM": "cafundoart",
+        "ENDEREÇO": "Rua Roberto Pegoretti, 456; em frente cruzeiro",
+        "CEP": "12701-180"
+      },
+      "geometry": {
+        "coordinates": [
+          -44.969389,
+          -22.573256
+        ],
+        "type": "Point"
+      },
+      "id": "b62f832ac596e31224d2e6b4a1bb3dcb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Porto Seguro",
+        "NOME": "Tabacaria do Baiano",
+        "INSTAGRAM": "tabacariadobaiano",
+        "ENDEREÇO": "Rua dona candi, numero 46 - pacatá",
+        "CEP": "45810000"
+      },
+      "geometry": {
+        "coordinates": [
+          -39.06851,
+          -16.444616
+        ],
+        "type": "Point"
+      },
+      "id": "b8061e3704562c6a6f0187186fbba84f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PR",
+        "CIDADE": "Curitiba",
+        "NOME": "Amsterdam Head Shop",
+        "INSTAGRAM": "amsterdam_shopctba",
+        "ENDEREÇO": "Rua Emiliano Perneta, 288 - 13 - Centro; Green tower",
+        "CEP": "80010-050"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.27545,
+          -25.435436
+        ],
+        "type": "Point"
+      },
+      "id": "b85f52bb63ca99dd1e20a2d82bbf6652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Juiz de Fora",
+        "NOME": "Buena Onda Tabacaria",
+        "INSTAGRAM": "buenaonda.tabacaria",
+        "ENDEREÇO": "Rua padre anchieta 316 ap 301",
+        "CEP": "36016440"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.357566,
+          -21.770593
+        ],
+        "type": "Point"
+      },
+      "id": "b8632c0e4d6a20e1cd6f713fc762d12a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Belo Horizonte",
+        "NOME": "On brasa",
+        "INSTAGRAM": "onbrasa_tabacaria",
+        "ENDEREÇO": "Rua Wilson Tavares ribeiro 253, Texeira dias, barreiro ",
+        "CEP": "30640260"
+      },
+      "geometry": {
+        "coordinates": [
+          -44.022324,
+          -19.972643
+        ],
+        "type": "Point"
+      },
+      "id": "b8d21181e09d864e129a919eec62f089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Ilha Solteira",
+        "NOME": "JRheadshop",
+        "INSTAGRAM": "jrheadshop",
+        "ENDEREÇO": "Passeio Caconde, 401",
+        "CEP": "15385000"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.344961,
+          -20.433853
+        ],
+        "type": "Point"
+      },
+      "id": "b916648105eb882802b109b1799e473f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São José dos Campos",
+        "NOME": "Vovó Charas",
+        "INSTAGRAM": "vovocharas.growshop",
+        "ENDEREÇO": "Rua casemiro de Abreu, 93",
+        "CEP": "12243-600"
+      },
+      "geometry": {
+        "coordinates": [
+          -45.896281,
+          -23.205575
+        ],
+        "type": "Point"
+      },
+      "id": "b95d575e0e12ff3fb657f21b687bf343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de janeiro",
+        "NOME": "NaturaBlend",
+        "INSTAGRAM": "_naturablend",
+        "ENDEREÇO": "Estrada do Barro Vermelho 1580 Colégio",
+        "CEP": "21540501"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.341534,
+          -22.87095
+        ],
+        "type": "Point"
+      },
+      "id": "bbf547f0f682ab98d29b4a18b2d1f339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Headshop bar e tabacaria",
+        "INSTAGRAM": "headshopbar",
+        "ENDEREÇO": "Rua Luis Gois 1683",
+        "CEP": "04043-350"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.629441,
+          -23.604017
+        ],
+        "type": "Point"
+      },
+      "id": "bc164a75eac5c16c269cfd1c8b6bc502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF ",
+        "CIDADE": "Brasília ",
+        "NOME": "Guiles Green",
+        "INSTAGRAM": "guilesgreen",
+        "ENDEREÇO": "Cln 203 bloco C, 7 - asa norte",
+        "CEP": "70833530"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.878238,
+          -15.777146
+        ],
+        "type": "Point"
+      },
+      "id": "bd0549adf2e2e62da2eed0f56dfebec5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Sete Lagoas ",
+        "NOME": "Tabacaria Lima",
+        "INSTAGRAM": "tabacarialima",
+        "ENDEREÇO": "R. São José, 361 B - São Geraldo",
+        "CEP": "35700-209"
+      },
+      "geometry": {
+        "coordinates": [
+          -44.245675,
+          -19.472629
+        ],
+        "type": "Point"
+      },
+      "id": "bdc459b02dd4b02621a94dfa8f7bd945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Franca",
+        "NOME": "Alecrim tabacaria",
+        "INSTAGRAM": "alecrimtabacaria",
+        "ENDEREÇO": "Av Presidente Vargas,452 Cidade Nova",
+        "CEP": "14401120"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.389952,
+          -20.525821
+        ],
+        "type": "Point"
+      },
+      "id": "bdd74c0e2e37ac6e2ad93e6beb8b8831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Varginha",
+        "NOME": "High Dreams",
+        "INSTAGRAM": "tabacaria_highdreams",
+        "ENDEREÇO": "R. São Gonçalo do Sapucaí, 95 - Jardim Andere",
+        "CEP": "37026-310\r\n"
+      },
+      "geometry": {
+        "coordinates": [
+          -45.438567,
+          -21.569797
+        ],
+        "type": "Point"
+      },
+      "id": "bde2e93c44ccdd4b9c9213a51c2a2883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Lorena",
+        "NOME": "Yatra Tabacaria",
+        "INSTAGRAM": "Yatra.oficial",
+        "ENDEREÇO": "Rua coronel José Vicente 162 centro",
+        "CEP": "12608000"
+      },
+      "geometry": {
+        "coordinates": [
+          -45.120111,
+          -22.733872
+        ],
+        "type": "Point"
+      },
+      "id": "be44907a5aa039f8bba7b9c0acc0a789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SE",
+        "CIDADE": "Tobias Barreto",
+        "NOME": "Fire tabacaria ",
+        "INSTAGRAM": "firetabacariaa",
+        "ENDEREÇO": "Avenida 7 de junho, 803",
+        "CEP": "49300000"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.00086,
+          -11.185454
+        ],
+        "type": "Point"
+      },
+      "id": "be9cadc8f8f0716870c2c1fffa498086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "King bob",
+        "INSTAGRAM": "kingbongbr",
+        "ENDEREÇO": "R. Acopiara, 199 Alto da Lapa",
+        "CEP": "05083-110"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.715021,
+          -23.533835
+        ],
+        "type": "Point"
+      },
+      "id": "c1135862c30acccd9f81a5061efe6bbf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Goiânia",
+        "NOME": "Tabacaria Cancilieri",
+        "INSTAGRAM": "tabacariacancilieri",
+        "ENDEREÇO": "Galeria Vitória Régia - Avenida Laguna , 355 Qd 109 , Lt 12 Sala 02 - Parque Amazonia",
+        "CEP": "74843-110"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.287908,
+          -16.73353
+        ],
+        "type": "Point"
+      },
+      "id": "c1b42b2274c223f1a8ca4518a408421e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SC",
+        "CIDADE": "Indaial",
+        "NOME": "Tabacaria Snake Smoke ",
+        "INSTAGRAM": "snakesmoketabacaria",
+        "ENDEREÇO": "Rua botuvera ",
+        "CEP": "89082-311"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.251197,
+          -26.8938
+        ],
+        "type": "Point"
+      },
+      "id": "c30c28580c188862bf79d2488aac33a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Americana",
+        "NOME": "Fire Tabacaria",
+        "INSTAGRAM": "firetabacariaam",
+        "ENDEREÇO": "Rua Hungria 75",
+        "CEP": "13471730"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.343418,
+          -22.729155
+        ],
+        "type": "Point"
+      },
+      "id": "c392c8476aba79caca618f58a6d9c247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Alto Paraíso de Goiás",
+        "NOME": "deLyra Tabacaria",
+        "INSTAGRAM": "delyratrip",
+        "ENDEREÇO": "Rua Cinco s/n Vila de São Jorge",
+        "CEP": "73778000"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.177037,
+          -14.177037
+        ],
+        "type": "Point"
+      },
+      "id": "c3c62fbd4914d119dd6e0ed7af8e4c05"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Paulista",
+        "NOME": "Ta Bolado headshop",
+        "INSTAGRAM": "tabolado_headshop",
+        "ENDEREÇO": "Avenida presidente tancredo Neves. N 297c, Jardim Paulista baixo, Paulista",
+        "CEP": "53409190"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.899757,
+          -7.946619
+        ],
+        "type": "Point"
+      },
+      "id": "c41bc31407ac4a56c650bff56c3d255e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RN",
+        "CIDADE": "Natal",
+        "NOME": "HighCulture Headshop",
+        "INSTAGRAM": "highcultureheadshop",
+        "ENDEREÇO": "Av. Ayrton Senna, 1170 - loja 02 - Neópolis",
+        "CEP": " 59088-100"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.203532,
+          -5.870068
+        ],
+        "type": "Point"
+      },
+      "id": "c554a7c29f7d435416236e1f9d429658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Porto Alegre",
+        "NOME": "Tabacaria Capri",
+        "INSTAGRAM": "capritabacaria",
+        "ENDEREÇO": "R. da República, 267 - Cidade Baixa",
+        "CEP": "90050-320"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.224042,
+          -30.038982
+        ],
+        "type": "Point"
+      },
+      "id": "c55fb00f6d98fbd1386d89f7a6bad5b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Presidente prudente",
+        "NOME": "Pumba roots",
+        "INSTAGRAM": "pumba.roots",
+        "ENDEREÇO": "Rua Alvino Gomes Teixeira, 495, Bloco 3 ap 201",
+        "CEP": "19030440"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.385394,
+          -22.106621
+        ],
+        "type": "Point"
+      },
+      "id": "c5ce8f042d6684da7df56d9624bd65e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Salto de Pirapora",
+        "NOME": "Alfa Love Tabacaria (Tabacaria e Headshop)",
+        "INSTAGRAM": "alfalovetabacaria",
+        "ENDEREÇO": "Rua Pedro Aleixo dos Santos, 34",
+        "CEP": "18160000"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.575704,
+          -23.643717
+        ],
+        "type": "Point"
+      },
+      "id": "c74b21df3132a318dcac54229a32dbdf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro",
+        "NOME": "Texas Tabacaria & Headshop rj",
+        "INSTAGRAM": "texas.rj",
+        "ENDEREÇO": "Rua Dias da Cruz, 188/loja 135 - Méier",
+        "CEP": "20720-900"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.277842,
+          -22.902173
+        ],
+        "type": "Point"
+      },
+      "id": "c783a0bc5389e3894e5201063accfd5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Tabacaria tu pita",
+        "INSTAGRAM": "tabacaria_tupita",
+        "ENDEREÇO": "QS 15 CJ 1 LT 2 CONDOMINIO 29 - Riacho Fundo II",
+        "CEP": "71884-561"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.034283,
+          -15.947753
+        ],
+        "type": "Point"
+      },
+      "id": "c79190ab850a4ecf234aeb98e967de46"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Preto Véio Headshop",
+        "INSTAGRAM": "pretoveioheadshop",
+        "ENDEREÇO": "Rua Heliodora 411",
+        "CEP": "02022-051"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.639796,
+          -23.503296
+        ],
+        "type": "Point"
+      },
+      "id": "c85184b8ae7c418eeb8bddaa97c9e33e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PR",
+        "CIDADE": "Ponta grossa",
+        "NOME": "Mística Lúmina",
+        "INSTAGRAM": "misticalumina",
+        "ENDEREÇO": "Rua Augusto ribas, 825",
+        "CEP": "84010300"
+      },
+      "geometry": {
+        "coordinates": [
+          -50.16017,
+          -25.097534
+        ],
+        "type": "Point"
+      },
+      "id": "c86b846ce38c29fe4f063635085ff5b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Recife ",
+        "NOME": "Tabacaria roots",
+        "INSTAGRAM": "tabacaria.roots",
+        "ENDEREÇO": "R. Sete de Setembro, 250 - Boa Vista",
+        "CEP": "50050-030"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.882489,
+          -8.059682
+        ],
+        "type": "Point"
+      },
+      "id": "c8cfb6aa38fe234735a3c5601459b936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São paulo",
+        "NOME": "Guaras Head Shop 2",
+        "INSTAGRAM": "guaras.headshop",
+        "ENDEREÇO": "rua Alfonso asturaro 49 barro branco",
+        "CEP": "8485010"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.391093,
+          -23.584445
+        ],
+        "type": "Point"
+      },
+      "id": "c9250d83c5969ef52251e57ff488e3c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PE",
+        "CIDADE": "Caruaru ",
+        "NOME": "Tabacaria Indicativa Headshop & Presentes",
+        "INSTAGRAM": "https://indicativa-headshop-e-presentes.negocio.site/",
+        "ENDEREÇO": "R. Tupy, 147 - Salgado",
+        "CEP": "55016-080"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.965773,
+          -8.27872
+        ],
+        "type": "Point"
+      },
+      "id": "c95afcfd3f57186b33883e40b4ef5a1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SE",
+        "CIDADE": "Aracaju",
+        "NOME": "Bob box tabacaria",
+        "INSTAGRAM": "_bobboxtabacaria",
+        "ENDEREÇO": "Rua promotor Alison Porto n 34",
+        "CEP": "49095710"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.082503,
+          -10.94293
+        ],
+        "type": "Point"
+      },
+      "id": "c9984e61f225523b8413178ae1cf3fee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Urban haze brasil",
+        "INSTAGRAM": "urban_haze_br",
+        "ENDEREÇO": "Rua Tijuco Preto, 196 - Tatuapé",
+        "CEP": "03316-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.833333,
+          -24.183333
+        ],
+        "type": "Point"
+      },
+      "id": "caaf43bef2fd6e94fb7b6ff7cefc699c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PB",
+        "CIDADE": "João Pessoa",
+        "NOME": "SEDAS JP",
+        "INSTAGRAM": "SEDAS_JP",
+        "ENDEREÇO": "RUA MARIZA ALVES BONZEADO 166",
+        "CEP": "58068-060"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.845011,
+          -7.119495
+        ],
+        "type": "Point"
+      },
+      "id": "cb44893c675ec03ab6943f0c64ca8893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "Tabacaria Condor",
+        "INSTAGRAM": "tabacariacondor",
+        "ENDEREÇO": " Estação de metrô - Largo do Machado, 29 loja - 38 (Dentro da Loteria Próximo da estação de metrô, Largo do Machado - Laranjeiras",
+        "CEP": "22221-020"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.179357,
+          -22.930715
+        ],
+        "type": "Point"
+      },
+      "id": "cbb7b28e95e2edc5ac0106bc98fb75a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Rio de Janeiro ",
+        "NOME": "Gryphus Tabacaria & Headshop",
+        "INSTAGRAM": "gryphustabacaria",
+        "ENDEREÇO": "R. Lucaia, 79 - Taquara",
+        "CEP": "22720-250"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.38575,
+          -22.918217
+        ],
+        "type": "Point"
+      },
+      "id": "cc102b58b02946597d5fa6be0f5be3c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Zangado Tabacaria",
+        "INSTAGRAM": "zangadotabacaria",
+        "ENDEREÇO": "R. Paraguassú, 268 - Glória",
+        "CEP": "29101-420"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.282972,
+          -20.337256
+        ],
+        "type": "Point"
+      },
+      "id": "cc953d99e2bb445b82f82a8ef660fe69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Caratinga",
+        "NOME": "Namaste A Tabacaria",
+        "INSTAGRAM": "Namasteatabacaria",
+        "ENDEREÇO": "Av Olégario Maciel 491 centro",
+        "CEP": "35300398"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.141391,
+          -19.785023
+        ],
+        "type": "Point"
+      },
+      "id": "ce4f87f3586377736cc6be4f4232b992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PR",
+        "CIDADE": "Foz do Iguaçu",
+        "NOME": "Fox Tabacaria",
+        "INSTAGRAM": "foxatacadoevarejo",
+        "ENDEREÇO": "Av. Juscelino Kubitscheck, 1104 - Centro",
+        "CEP": "85851-170"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.579655,
+          -25.538474
+        ],
+        "type": "Point"
+      },
+      "id": "ce5eff3c21eeeb6e5b23f5baf13c3110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RN",
+        "CIDADE": "Natal",
+        "NOME": "FLAME ZONE TABACARIA E CONVENIENCIA",
+        "INSTAGRAM": "flame_zone_tabacaria",
+        "ENDEREÇO": "Orla de, R. Erivan França - Ponta Negra",
+        "CEP": "59090-100"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.173413,
+          -5.879258
+        ],
+        "type": "Point"
+      },
+      "id": "ce79711d45ec7cfa2afa789f8e6b3867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Bebedouro",
+        "NOME": "Mundo Criativo Tabacaria e Presentes",
+        "INSTAGRAM": "Mundocriativouvaeverde",
+        "ENDEREÇO": "Rua Quinze de Novembro, 426 SA 02",
+        "CEP": "14700005"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.47694,
+          -20.953425
+        ],
+        "type": "Point"
+      },
+      "id": "ce8094fbc4df4b439815e383756658b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Villas distribuidora",
+        "INSTAGRAM": "villasdistribuidora",
+        "ENDEREÇO": "R. Conselheiro Dantas, 62 - Canindé",
+        "CEP": "03032-020"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.620328,
+          -23.529755
+        ],
+        "type": "Point"
+      },
+      "id": "cf0e835091779db4d96299ffc42ba9fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Luziânia",
+        "NOME": "Salamandra tabacaria",
+        "INSTAGRAM": "salamandratabacaria",
+        "ENDEREÇO": "Rua dona Guiomar Ribeiro Qd 54 lote 01 loja 07",
+        "CEP": "72850070"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.917755,
+          -16.251477
+        ],
+        "type": "Point"
+      },
+      "id": "cfbac611173eca52bcb19748173636bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Canoas",
+        "NOME": "Headshop Conceito",
+        "INSTAGRAM": "headshop_conceito",
+        "ENDEREÇO": "R. Tamôio, 1719 - Niterói",
+        "CEP": "92120-001"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.169599,
+          -29.945059
+        ],
+        "type": "Point"
+      },
+      "id": "d11e81821cc3bf9a0d18da201a30e27f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Belo horizonte",
+        "NOME": "The benson tabacaria e head shop",
+        "INSTAGRAM": "the.benson.tabacaria",
+        "ENDEREÇO": "av do contorno 2008 floresta loja4",
+        "CEP": " 30110-012"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.942318,
+          -19.913532
+        ],
+        "type": "Point"
+      },
+      "id": "d300f89bfba1533d9bfa2b20ada80bf3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RN",
+        "CIDADE": "Natal",
+        "NOME": "Vendas Vaz",
+        "INSTAGRAM": "vendas_vaz",
+        "ENDEREÇO": "Avenida Romualdo Galvão, 1574",
+        "CEP": "59056100"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.20843,
+          -5.812657
+        ],
+        "type": "Point"
+      },
+      "id": "d34f402af8ccced954a9bc6e79dd34a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "São João de Meriti ",
+        "NOME": "Tabacaria Regalo",
+        "INSTAGRAM": "tabacariaregalo",
+        "ENDEREÇO": " R. Abdala Nádia, 122 - São Mateus",
+        "CEP": "21520-040"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.406667,
+          -22.813333
+        ],
+        "type": "Point"
+      },
+      "id": "d416c05a036e492ee6482dfced4b42fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Cachoeirinha",
+        "NOME": "Deep Smoke Tabacaria ",
+        "INSTAGRAM": "deep.smk",
+        "ENDEREÇO": "R. Mal. Euríco Gáspar Dutra, 159 b",
+        "CEP": "94920-970"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.104385,
+          -29.955042
+        ],
+        "type": "Point"
+      },
+      "id": "d4de83808beb86ea2b0ad779db445615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "El Patron Tabacaria e conveniência",
+        "INSTAGRAM": "elpatron_tabaccaria",
+        "ENDEREÇO": "SCS quadra 05, SHIGS 706 Bl. B, lote 74 - Loja 23 - Asa Sul",
+        "CEP": "70305-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.808732,
+          -15.648554
+        ],
+        "type": "Point"
+      },
+      "id": "d534036f3440188005924e2d31bd8c1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PR",
+        "CIDADE": "Maringá",
+        "NOME": "JET BEER CONVENIÊNCIA",
+        "INSTAGRAM": "jetbeerconveniencia",
+        "ENDEREÇO": "Av Joaquim Duarte Moleirinho n1842 sala 2",
+        "CEP": "87060350"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.933786,
+          -23.42102
+        ],
+        "type": "Point"
+      },
+      "id": "d57f41486d343a9a553698ff5f499d1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Capivara hemp 2",
+        "INSTAGRAM": "capivarahemp",
+        "ENDEREÇO": "R PARAOPEBA, 51 - PINHEIROS",
+        "CEP": "05429-020"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.69866,
+          -23.564294
+        ],
+        "type": "Point"
+      },
+      "id": "d5819de7c6519ecefb1c5cfb2b0e62e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Colatina",
+        "NOME": "Maria fumaça tabacaria",
+        "INSTAGRAM": "tab.mariafumaca",
+        "ENDEREÇO": "Rua Gervasio Vitali, 23, Fazenda Vitali",
+        "CEP": "29707-885"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.637619,
+          -19.541668
+        ],
+        "type": "Point"
+      },
+      "id": "d66f74a14cedd02d00620e1548c4a44a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PA",
+        "CIDADE": "Ananindeua",
+        "NOME": "Brisa Amazônica Headshop",
+        "INSTAGRAM": "brisaamazonicaheadshop",
+        "ENDEREÇO": "Rua do fio n° 718 - Guanabara, Ananindeua",
+        "CEP": "67010550"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.400541,
+          -1.371732
+        ],
+        "type": "Point"
+      },
+      "id": "d703549a779e0df741237721d968c137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Distrito tabacaria",
+        "INSTAGRAM": "distrito_tabacaria",
+        "ENDEREÇO": "SHA CH 80 LT 01 LOJA 07 Arniqueira",
+        "CEP": "71.994-503"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.897751,
+          -15.79211
+        ],
+        "type": "Point"
+      },
+      "id": "d78abc72fa6ba224d0521df1f2baf6ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Hope Tabacaria e Headshop",
+        "INSTAGRAM": "hopetabacariaes",
+        "ENDEREÇO": "Avenida Luciano das Neves, 268, Prainha (Centro)",
+        "CEP": "29100200"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.293111,
+          -20.337142
+        ],
+        "type": "Point"
+      },
+      "id": "d82d15e130fa1b8c2b1db297de7ad2a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São paulo",
+        "NOME": "Tabacaria Café & Fumaça",
+        "INSTAGRAM": "tabacariacafeefumaca",
+        "ENDEREÇO": "Rua Antônio Galvão Freire 50 - Cachoeira Paulista / Rua Major Novaes 8 - Cruzeiro",
+        "CEP": "12701-330 / 12630-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -44.961127,
+          -22.576164
+        ],
+        "type": "Point"
+      },
+      "id": "d928c18c51d8a2f8d5102b01f7b8a0bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Garopaba",
+        "NOME": "Encantada Headshop",
+        "INSTAGRAM": "encantadahs",
+        "ENDEREÇO": "Rodovia Sc-434, 434, LOJA 03 SN, Campo D´Una",
+        "CEP": "88495971"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.675089,
+          -28.101416
+        ],
+        "type": "Point"
+      },
+      "id": "d92d171fad78967f3032245f4fef28e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Pelotas",
+        "NOME": "Moke Headshop",
+        "INSTAGRAM": "mokeheadshop",
+        "ENDEREÇO": "R. Andrade Neves, 2395 - Centro",
+        "CEP": "96020-080"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.340396,
+          -31.763585
+        ],
+        "type": "Point"
+      },
+      "id": "da931cb37bb00e496f24229983cf05e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Farroupilha",
+        "NOME": "Earth Smoke Shop",
+        "INSTAGRAM": "earthsmoke.shop",
+        "ENDEREÇO": "R. Pinheiro Machado, 208 - Sala 21 - Centro",
+        "CEP": "95170-432"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.346823,
+          -29.227373
+        ],
+        "type": "Point"
+      },
+      "id": "db4a4fa6e5b1dbbff81a911e1f55f0ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Linhares",
+        "NOME": "Nargas Aromas e Tabacaria",
+        "INSTAGRAM": "nargastabacaria",
+        "ENDEREÇO": "Av. Rufino de Carvalho, 1011 - Loja 07 - Centro",
+        "CEP": "29900-225"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.068043,
+          -19.399213
+        ],
+        "type": "Point"
+      },
+      "id": "dc8624ce7b19a5d2aa70f236c90951f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Goiânia",
+        "NOME": "Sensus Tabacaria",
+        "INSTAGRAM": "sensustabacaria",
+        "ENDEREÇO": "Avenida Jorge Martins N 56 Qd 140 Lt 01 Sala 01 - Pedro Ludovico",
+        "CEP": "74815-542"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.243307,
+          -16.712002
+        ],
+        "type": "Point"
+      },
+      "id": "dc90eacd84c55e14e834f65a563a6801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Brabus Tabacaria",
+        "INSTAGRAM": "brabus.tabacaria",
+        "ENDEREÇO": "R. L, 03 - Terra Vermelha",
+        "CEP": "29127-210"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.29318,
+          -20.296186
+        ],
+        "type": "Point"
+      },
+      "id": "dca71c963c13dc76eb005fe4c40fe801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Vinhedo",
+        "NOME": "Crema Club Tabacaria Head Shop",
+        "INSTAGRAM": "tabacariacremaclub",
+        "ENDEREÇO": "Av. Cachalote, 384 - Res. Aquário",
+        "CEP": "13284-016"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.984299,
+          -23.026052
+        ],
+        "type": "Point"
+      },
+      "id": "dd8737752e2f307e319ab7515368d294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Duffy Tabacaria e Narguile",
+        "INSTAGRAM": "duffydistribuidora https://www.duffynarguiles.com.br/",
+        "ENDEREÇO": "Vitrinni Shopping, Av. das Castanheiras, s/n - Águas Claras",
+        "CEP": "71909-720"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.895958,
+          -15.750886
+        ],
+        "type": "Point"
+      },
+      "id": "ddd82be86cfebba5af6ad9603e9e442c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São jose dos campos",
+        "NOME": "Chapo Tabacaria",
+        "INSTAGRAM": "chapotabacaria",
+        "ENDEREÇO": "Rua Lazaro floriano barbosa, 71",
+        "CEP": "12248-410"
+      },
+      "geometry": {
+        "coordinates": [
+          -45.794732,
+          -23.174661
+        ],
+        "type": "Point"
+      },
+      "id": "de6597e3b8d52ebb67a0b59aca6b9ddd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Sumaré",
+        "NOME": "Blend tabacaria",
+        "INSTAGRAM": "Blend.tabacaria",
+        "ENDEREÇO": "Rua Osvaldo vacari 146",
+        "CEP": "13178374"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.195471,
+          -22.806237
+        ],
+        "type": "Point"
+      },
+      "id": "df4b70d7b4cb0ec76416f863a869be3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PA",
+        "CIDADE": "Ananindeua ",
+        "NOME": "PureLanche - Tabacaria e Acessórios",
+        "INSTAGRAM": "purelanchetabacaria",
+        "ENDEREÇO": "Travessa We Dez B, 192 - cidade nova",
+        "CEP": "67130-120 "
+      },
+      "geometry": {
+        "coordinates": [
+          -48.392791,
+          -1.359072
+        ],
+        "type": "Point"
+      },
+      "id": "df50798761b4fe416e585953d60c14ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Tacco Tabacaria ",
+        "INSTAGRAM": "taccotabacaria",
+        "ENDEREÇO": "Eq 51/53 projeção 02 Edifício Varandas, 603 - setor central",
+        "CEP": "72405517"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.897751,
+          -15.79211
+        ],
+        "type": "Point"
+      },
+      "id": "df8b9955b9100bce0a9852247e655dd1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Tabacaria da Praia",
+        "INSTAGRAM": "tabacariapraia",
+        "ENDEREÇO": "Av. Hugo Musso, 535 - Praia da Costa",
+        "CEP": "29101-285"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.28399,
+          -20.338865
+        ],
+        "type": "Point"
+      },
+      "id": "e02657f942104c2dee463fc6ea3421fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MA",
+        "CIDADE": "Sao Luis",
+        "NOME": "Calhau Tabacaria",
+        "INSTAGRAM": "calhautabacaria",
+        "ENDEREÇO": " Loja 2 - Avenida dos Holandeses, Estr. Velha do Calhau, Quadra 34 - Lote 7 e 8",
+        "CEP": "40393-230"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.849334,
+          -2.29766
+        ],
+        "type": "Point"
+      },
+      "id": "e240e8fe9752e7f2638d7761f67d3ca7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Esmeraldas",
+        "NOME": "Tabacaria Namastê e Head Shop",
+        "INSTAGRAM": "ntabacaria",
+        "ENDEREÇO": "R. Expedicionários, 244 - Centro",
+        "CEP": "32800-076"
+      },
+      "geometry": {
+        "coordinates": [
+          -44.312116,
+          -19.763877
+        ],
+        "type": "Point"
+      },
+      "id": "e252ee22f4cc482a2f0de36173618097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Porto Alegre",
+        "NOME": "Tamandua Tabacaria",
+        "INSTAGRAM": "tabacariatamandua",
+        "ENDEREÇO": "R. Gen. Lima e Silva, 532 - Centro Histórico",
+        "CEP": "90050-100"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.219258,
+          -30.040016
+        ],
+        "type": "Point"
+      },
+      "id": "e2afc352115f55a6b618e65e2d46cc6d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MA",
+        "CIDADE": "Imperatriz ",
+        "NOME": "Tioboby tabacaria",
+        "INSTAGRAM": "tiobobyoficial__",
+        "ENDEREÇO": "Rua Rui barbosa 691vila lobão - Vila Lobão",
+        "CEP": "65910-265"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.463505,
+          -5.50865
+        ],
+        "type": "Point"
+      },
+      "id": "e5621ca0c5487f3186045675678f7e5a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Headhop Tabacaria e choperia",
+        "INSTAGRAM": "headhoptabacaria",
+        "ENDEREÇO": "R. José Pinto Vieira, 15 - Itapoã",
+        "CEP": "29101-609"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.294952,
+          -20.347782
+        ],
+        "type": "Point"
+      },
+      "id": "e65edbc207ccec6e06e4c90495354c65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Campos dos Goytacazes",
+        "NOME": "Salvaê Tabacaria",
+        "INSTAGRAM": "salvaetabacaria",
+        "ENDEREÇO": "Rua Francisco Arueira, 12 - Baixo, Parque Pecuária",
+        "CEP": "28055040"
+      },
+      "geometry": {
+        "coordinates": [
+          -41.31845,
+          -21.762668
+        ],
+        "type": "Point"
+      },
+      "id": "e6b2c18e12a45d30c5c663e112c5a7b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PA",
+        "CIDADE": "Belém",
+        "NOME": "PureLanche - Tabacaria e Acessórios",
+        "INSTAGRAM": "purelanchetabacaria",
+        "ENDEREÇO": "Av. Comandante Brás de Águiar, 492 / Golden Shopping, 5 - nazare",
+        "CEP": " 66035-405"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.48861,
+          -1.454879
+        ],
+        "type": "Point"
+      },
+      "id": "e72ce7acdbc680cb6e40bf62508a600a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SC",
+        "CIDADE": "São Francisco do Sul",
+        "NOME": "Babitonga Head Shop",
+        "INSTAGRAM": "babitongaheadshop",
+        "ENDEREÇO": "Rua Leopoldo Bernardo Grubba, 709 - São José do Acaraí",
+        "CEP": "89240-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.634621,
+          -26.249088
+        ],
+        "type": "Point"
+      },
+      "id": "e903160586cb57fddf0a5703e96a7b4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PB",
+        "CIDADE": "João Pessoa",
+        "NOME": "Space Jampa",
+        "INSTAGRAM": "spacejampa",
+        "ENDEREÇO": "Rua Severino Venâncio de Souza N 303 Cond. Geisel Privê",
+        "CEP": "58068330"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.845011,
+          -7.119495
+        ],
+        "type": "Point"
+      },
+      "id": "ea6151b7007caa06ad93902022520961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Embu das Artes",
+        "NOME": "Rockheadshop",
+        "INSTAGRAM": "rockheadshop",
+        "ENDEREÇO": "Rua rainha Maria Stuart 149, casa 1, vila Regina",
+        "CEP": "06810-640"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.798869,
+          -23.64949
+        ],
+        "type": "Point"
+      },
+      "id": "eab9bbe49a06be9ff567b9e3c302a397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "Chico Paia Headshop",
+        "INSTAGRAM": "chicopaiaheadshop_",
+        "ENDEREÇO": "Rua constança da conceição, 7 - vila jaguari",
+        "CEP": "05162090"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.641141,
+          -23.636214
+        ],
+        "type": "Point"
+      },
+      "id": "ebcd66de8fd2362c477d8539742613cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "uMatim tabacaria",
+        "INSTAGRAM": "umatimtabacaria",
+        "ENDEREÇO": "CRS 506 bloco A loja 67",
+        "CEP": "70350515"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.88928,
+          -15.752238
+        ],
+        "type": "Point"
+      },
+      "id": "edda1078da096fca5d8b2de981f9c0f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "São Paulo",
+        "NOME": "SAUNA",
+        "INSTAGRAM": "asauna.co",
+        "ENDEREÇO": "Rua Morro Queimado, 99",
+        "CEP": "04281-010"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.017222,
+          -24.8275
+        ],
+        "type": "Point"
+      },
+      "id": "ef53a0497d1e5bf5d22278fbbeb59883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Serra",
+        "NOME": "Di Medeiros Tabacaria -Jacaraipe",
+        "INSTAGRAM": "di_medeiros_jacaraipe",
+        "ENDEREÇO": "Av. Abido Saad, 2503 - Das Laranjeiras",
+        "CEP": "29175-585"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.183589,
+          -20.133346
+        ],
+        "type": "Point"
+      },
+      "id": "efaf46ca2da019d46cd5c6ad9b80734d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Serra",
+        "NOME": "Kaya Tabacaria e Head Shop",
+        "INSTAGRAM": "kayatabacariaes",
+        "ENDEREÇO": "R. das Dálias,2 - Pedro - Feu Rosa",
+        "CEP": "29172-370"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.214268,
+          -20.172666
+        ],
+        "type": "Point"
+      },
+      "id": "f0320f0f7de41ed11fd308c1fda9d679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Assis",
+        "NOME": "Alaska Headshop",
+        "INSTAGRAM": "alaska.hshop",
+        "ENDEREÇO": "Nelson Marcondes 573 (casa)",
+        "CEP": "19813-759"
+      },
+      "geometry": {
+        "coordinates": [
+          -50.406454,
+          -22.649595
+        ],
+        "type": "Point"
+      },
+      "id": "f05587c369fa69bcfd8898e2b5bb6c33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "PI",
+        "CIDADE": "Teresina ",
+        "NOME": "Piawaii Headshop",
+        "INSTAGRAM": "piawaii_headshop",
+        "ENDEREÇO": "Rua Heloneida Reinaldo, 1100 - Ininga",
+        "CEP": "64049-750"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.800674,
+          -5.051903
+        ],
+        "type": "Point"
+      },
+      "id": "f068cbf05066630056dd595da406e8ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Tabacaria hilton ",
+        "INSTAGRAM": "tabacariahiltondf https://tabacariahilton.com.br/",
+        "ENDEREÇO": "QND 48, LOTE 01, LOJA - Taguatinga",
+        "CEP": "72120-480"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.057474,
+          -15.802194
+        ],
+        "type": "Point"
+      },
+      "id": "f0823434368857d0af80157ade876298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RJ",
+        "CIDADE": "Petrópolis",
+        "NOME": "Be Happy Petrópolis",
+        "INSTAGRAM": "behappytabacariapetropolis",
+        "ENDEREÇO": "Av. Roberto Silveira, n° 263 - Centro",
+        "CEP": "25685-040"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.184016,
+          -22.508292
+        ],
+        "type": "Point"
+      },
+      "id": "f1b5174c165aeccf57a316e89333ae1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Itapecerica da Serra",
+        "NOME": "Guaras Head Shop",
+        "INSTAGRAM": "guaras.headshop",
+        "ENDEREÇO": "Avenida Maximino Augusto de Carvalho 760 Sala 01",
+        "CEP": "06852-300"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.856193,
+          -23.712
+        ],
+        "type": "Point"
+      },
+      "id": "f22cdc56cbbec65bda2799549ee073fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SE",
+        "CIDADE": "Aracaju",
+        "NOME": "Mister Bong Tabacaria",
+        "INSTAGRAM": "mrbong.tabacaria",
+        "ENDEREÇO": "Av Lions Club, 267. Atalaia",
+        "CEP": "49037420"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.055053,
+          -10.990478
+        ],
+        "type": "Point"
+      },
+      "id": "f30eb0e0e8eb831c49a5acb99423fe2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RN",
+        "CIDADE": "Natal",
+        "NOME": "Tabacaria Narguileste Natal",
+        "INSTAGRAM": "narguileste",
+        "ENDEREÇO": "R. Pres. Quaresma, 538 - Alecrim",
+        "CEP": "59031-150"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.21267,
+          -5.803181
+        ],
+        "type": "Point"
+      },
+      "id": "f325f9bccb36c2123c8d4f11253a6d4c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": "Belo Horizonte",
+        "NOME": "Smoke Point Tabacaria e HeadShop",
+        "INSTAGRAM": "tabacariasmokepoint",
+        "ENDEREÇO": "Rua Vitório Magnavacca, 13 - Buritis",
+        "CEP": "30492-015"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.965813,
+          -19.969022
+        ],
+        "type": "Point"
+      },
+      "id": "f358f1840713c7c9f07a61738d16ffb3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Vila Velha",
+        "NOME": "Tabacaria Ilha da Neblina",
+        "INSTAGRAM": "ilhadaneblina",
+        "ENDEREÇO": "R. Fernando Coelho - Ilha dos Ayres",
+        "CEP": "29106-330"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.300971,
+          -20.338947
+        ],
+        "type": "Point"
+      },
+      "id": "f3bdaaa88451a8f2d892bac952e51862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Goiânia",
+        "NOME": "Space Box Headshop",
+        "INSTAGRAM": "spaceboxbr",
+        "ENDEREÇO": "RUA S5, R. L. B, 17 - qd s26 - St. Bela Vista",
+        "CEP": "74823-460"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.293876,
+          -16.646667
+        ],
+        "type": "Point"
+      },
+      "id": "f42af98042eae839d06b8466b9f81b55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "Caxias do Sul",
+        "NOME": "Tabacaria Garcia",
+        "INSTAGRAM": "garciatabacaria",
+        "ENDEREÇO": "Av. Julio de Castilhos",
+        "CEP": "95010002"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.178357,
+          -29.167833
+        ],
+        "type": "Point"
+      },
+      "id": "f49ee57e15316924f2b123370c70d4b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Assis",
+        "NOME": "3sheadshop",
+        "INSTAGRAM": "3sheadshop",
+        "ENDEREÇO": "Dom jose lazaro neves 30",
+        "CEP": "19.814-390"
+      },
+      "geometry": {
+        "coordinates": [
+          -50.410367,
+          -22.656536
+        ],
+        "type": "Point"
+      },
+      "id": "f4f52084afe46a8f55f86400dcf98cbe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "ES",
+        "CIDADE": "Linhares",
+        "NOME": "Cuervo Tabacaria",
+        "INSTAGRAM": "cuervotabacaria",
+        "ENDEREÇO": "R. Duque de Caxias, 498 - Loja 03 - Interlagos",
+        "CEP": "29903-152"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.04814,
+          -19.386128
+        ],
+        "type": "Point"
+      },
+      "id": "f5f1391cf5becae307605f6e32bd73f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Americana",
+        "NOME": "Sensation Tabacaria",
+        "INSTAGRAM": "sensationtabacaria",
+        "ENDEREÇO": "Rua são vito 1402",
+        "CEP": "13477350"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.306163,
+          -22.732644
+        ],
+        "type": "Point"
+      },
+      "id": "f64d101adf88e746aeb3d382c1c77ddf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "CE",
+        "CIDADE": "Ipu",
+        "NOME": "Freedom ipu",
+        "INSTAGRAM": "freedom.ipu",
+        "ENDEREÇO": "Rua Dr. Eusébio de Sousa, 660, Corte.",
+        "CEP": "62250-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.704565,
+          -4.320648
+        ],
+        "type": "Point"
+      },
+      "id": "f67f1ac11f88a667d62c788ebf917cc8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Guanambi",
+        "NOME": "Amana Tabacaria",
+        "INSTAGRAM": "amanatabacaria",
+        "ENDEREÇO": "Rua Santa Catarina, 20 - Centro",
+        "CEP": "46430000"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.779023,
+          -14.223524
+        ],
+        "type": "Point"
+      },
+      "id": "f6bba0bfab391f18928333d7023570ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Ilhéus ",
+        "NOME": "Paiol do Mestre Tabacaria e Café",
+        "INSTAGRAM": "paiol_do_mestre_tabacaria",
+        "ENDEREÇO": "Rua Padre, R. Luís Palmeira, 132 - Pontal",
+        "CEP": "45654-540"
+      },
+      "geometry": {
+        "coordinates": [
+          -39.046379,
+          -14.793505
+        ],
+        "type": "Point"
+      },
+      "id": "f79d3dc6d977aa332e7bea2d096ec2b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "CE",
+        "CIDADE": "Fortaleza ",
+        "NOME": "Ovelia Headshop",
+        "INSTAGRAM": "oveliaheadshop",
+        "ENDEREÇO": "Av. Washington Soares, 2155 - loja 44 - Edson Queiroz",
+        "CEP": "60811-341"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.47976,
+          -3.788852
+        ],
+        "type": "Point"
+      },
+      "id": "f7b633a1b3fa06bd6a9a66b8d9408d35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MG",
+        "CIDADE": " Uberaba",
+        "NOME": "Léo tabacaria",
+        "INSTAGRAM": "leo_tabacaria_posting",
+        "ENDEREÇO": "R. São Benedito, 145 - São Benedito",
+        "CEP": " 38022-100"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.949034,
+          -19.76697
+        ],
+        "type": "Point"
+      },
+      "id": "f7e45078672d248f6061ab40ea812977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Santos",
+        "NOME": "Buddies Headshop",
+        "INSTAGRAM": "buddiesheadshop",
+        "ENDEREÇO": "Av Mal Floriano Peixoto, 13 - Gal. Campos Eliseos, loja 10",
+        "CEP": "11060301"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.339653,
+          -23.966772
+        ],
+        "type": "Point"
+      },
+      "id": "f948792e5ff1f90244ae8225998eed89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Salvador ",
+        "NOME": "O Barro Tabacaria",
+        "INSTAGRAM": "obarrotabacaria",
+        "ENDEREÇO": " Atrás da Prefeitura Bairro de - R. Ten. Bento Nova Brasília de Itapuã - Itapuã",
+        "CEP": "41630-010"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.360533,
+          -12.937374
+        ],
+        "type": "Point"
+      },
+      "id": "fadb89bf226e676ae5ec5f9f404520f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Goiânia",
+        "NOME": "Ewolk Tabacaria",
+        "INSTAGRAM": "ewolk_tabacaria",
+        "ENDEREÇO": "Rua GV20 Quadra 54 Lote 10A",
+        "CEP": "74484-419"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.348663,
+          -16.699739
+        ],
+        "type": "Point"
+      },
+      "id": "fb403a205a5c26d63754461b2afd0bdc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MS",
+        "CIDADE": "Campo Grande",
+        "NOME": "Maktub reggae shop",
+        "INSTAGRAM": "maktubreggaeshop",
+        "ENDEREÇO": "Av. NOROESTE  799",
+        "CEP": "79009-760"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.603916,
+          -2.049183
+        ],
+        "type": "Point"
+      },
+      "id": "fc253c5c767a7d1c563b432844ade662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "SP",
+        "CIDADE": "Franca",
+        "NOME": "Alecrim Tabacaria ",
+        "INSTAGRAM": "alecrimtabacaria",
+        "ENDEREÇO": "Avenida Presidente Vargas, 452 - cidade nova",
+        "CEP": "14401110"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.389952,
+          -20.525821
+        ],
+        "type": "Point"
+      },
+      "id": "fc90d388f7bcd475c9143ed9a66540bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "GO",
+        "CIDADE": "Anapolis",
+        "NOME": "San Andreas Store",
+        "INSTAGRAM": "sanandreasstore",
+        "ENDEREÇO": "Rua senador eugenio jardim, loja 2, 20 - centro",
+        "CEP": "75023-080"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.953403,
+          -16.328546
+        ],
+        "type": "Point"
+      },
+      "id": "fccde3ee1d126397c75c6d1f1a2ab43c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "RS",
+        "CIDADE": "São Leopoldo",
+        "NOME": "Ras HeadShop",
+        "INSTAGRAM": "rasheadshop_",
+        "ENDEREÇO": "Rua Ida Joana Roth 170",
+        "CEP": "93040600"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.129779,
+          -29.775241
+        ],
+        "type": "Point"
+      },
+      "id": "fcdb3a77619c28e2ba539be72cbab36e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "MT",
+        "CIDADE": "Alto Araguaia",
+        "NOME": "RR Modas e Tabacaria",
+        "INSTAGRAM": "rr.modas.cia",
+        "ENDEREÇO": "Rua Afonso de Melo, 698 - vila aeroporto",
+        "CEP": "78780000"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.228084,
+          -1.732204
+        ],
+        "type": "Point"
+      },
+      "id": "fdfd7faa0f60ce04e6838ed6e5fb1c7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "DF",
+        "CIDADE": "Brasília",
+        "NOME": "Tabacaria Moving Hookah",
+        "INSTAGRAM": "movinghookah",
+        "ENDEREÇO": "Shopping Florida Mall - SQB, Sria I Rua Quaresmeira 2A, 2A - lote 08 Loja 45 - Guará",
+        "CEP": "71009-000"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.870907,
+          -15.80942
+        ],
+        "type": "Point"
+      },
+      "id": "fe9f16ece79722e7916638bebc83909f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "AM",
+        "CIDADE": "Manaus",
+        "NOME": "Purple Candy tabacaria e conveniência",
+        "INSTAGRAM": "purplecandy.tab",
+        "ENDEREÇO": "Rua Luiz Olavo, Parque 10 de Novembro",
+        "CEP": "69055-420"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.010579,
+          -3.081123
+        ],
+        "type": "Point"
+      },
+      "id": "ff12c3f79296c487ae93d552286ca83e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UF": "BA",
+        "CIDADE": "Salvador",
+        "NOME": "Roots Tabacaria",
+        "INSTAGRAM": "rootstabacaria071",
+        "ENDEREÇO": "Rua Novo Imbuí, 210 - Vila Anaiti, Imbuí",
+        "CEP": "41720000"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.43087,
+          -12.964293
+        ],
+        "type": "Point"
+      },
+      "id": "ff79ce8fe57e48f6d5cef6e913e81da3"
+    }
+  ],
+  "type": "FeatureCollection"
+}
